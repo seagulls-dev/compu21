@@ -1,0 +1,37 @@
+<div class="container">
+  <div class="row">
+    <img class="mx-auto" src="../../../assets/logo.png" alt="logo" class="img-fluid">
+  </div>
+  <div class="row">
+    <table class="table table-hover table-borderless text-center">
+      <thead>
+        <tr>
+          <th scope="col" style="width: 30%;" >
+            {{universe?.name}}
+          </th>
+          <th scope="col" >
+            {{universe?.desc}}
+          </th>
+          <th scope="col" style="width: 20%;" >
+            {{universe?.price}}
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of data">
+          <td style="font-size: 1.4rem;">
+            {{item.name}}
+          </td>
+          <td>
+            {{item.description}}
+          </td>
+          <td style="font-size: 1.4rem;">
+            {{item.price | currency}}
+          </td>
+        </tr>
+      </tbody>
+
+    </table>
+  </div>
+
+</div>

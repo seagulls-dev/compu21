@@ -1,0 +1,131 @@
+<div class="container">
+  <div class="row">
+    <div class="col-12 col-lg-4">
+
+      <div class="container-fluid">
+        <img src="assets/images/CN-only.jpg" class="img-fluid" width="300">
+      </div>
+      <div class="content">
+        <h3 >{{all_site?.sst}}</h3>
+        <div>
+          
+          <ul>
+            <li *ngFor="let item of data?.site_safety_manager">
+              <a class="link" routerLink="/course-page/{{item.code}}">{{item.name}}</a>
+            </li>
+          </ul>
+        </div>
+        
+      </div>
+
+      <div class="content">
+        <h3 >{{all_site?.scaff}}</h3>
+        <div>
+          
+          <ul>
+            <li *ngFor="let item of data?.scaffold_training">
+              <a class="link" routerLink="/course-page/{{item.code}}">{{item.name}}</a>
+            </li>
+          </ul>
+        </div>
+        
+      </div>
+
+    </div>
+    <div class="col-12 col-lg-4">
+      <div class="cotainer-fluid">
+        <img src="assets/images/CN-only-1.jpg" class="img-fluid" width="300">
+      </div>
+      <div class="content">
+        <h3 >{{all_site?.sst1}}</h3>
+        
+        <div *ngFor="let item of data?.site_safety_training">
+          <hr>
+          <h6>{{item.title}}</h6>
+          <hr>
+          <ul>
+            <li *ngFor="let subitem of item.content">
+              <a class="link" routerLink="/course-page/{{subitem.code}}">{{subitem.name}}</a>
+            </li>
+          </ul>
+
+        </div>
+
+      </div>
+    </div>
+    <div class="col-12 col-lg-4">
+      <div class="container-fluid">
+        <img src="assets/images/CN-only-2.jpg" class="img-fluid" width="300">
+      </div>
+      <div class="content">
+        <h3 >{{all_site?.osha}}</h3>
+        <div *ngFor="let item of data?.osha_training">
+          <h6>{{item.title}}</h6>
+          <hr>
+          <ul>
+            <li *ngFor="let subitem of item.content">
+              <a class="link" routerLink="/course-page/{{subitem.code}}">{{subitem.name}}</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="content">
+        <h3 >{{all_site?.other}}</h3>
+        <div>
+          <hr>
+          <ul>
+            <li *ngFor="let item of data?.other_course">
+              <a class="link" routerLink="/course-page/{{item.code}}">{{item.name}}</a>
+            </li>
+          </ul>
+          <hr>
+        </div>
+      </div>
+
+      <div class="content">
+        <h3 >{{all_site?.sst2}}</h3>
+        <div>
+          <hr>
+          <ul>
+            <li *ngFor="let item of data?.prescribed_course">
+              <a class="link" routerLink="/course-page/{{item.code}}">{{item.name}}</a>
+            </li>
+          </ul>
+          <hr>
+        </div>
+      </div>
+
+      <div class="content">
+        <h3 >{{all_site?.sst3}}</h3>
+        <div>
+          <hr>
+          <ul>
+            <li *ngFor="let item of data?.sst_general">
+              <a class="link" routerLink="/course-page/{{item.code}}">{{item.name}}</a>
+            </li>
+          </ul>
+          <hr>
+        </div>
+      </div>
+
+      <div class="content">
+        <h3 >{{all_site?.sst4}}</h3>
+        <div>
+          <hr>
+          <ul>
+            <li *ngFor="let item of data?.sst_special">
+              <a class="link" routerLink="/course-page/{{item.code}}">{{item.name}}</a>
+            </li>
+          </ul>
+          <hr>
+        </div>
+      </div>
+
+
+
+    </div>
+
+  </div>
+
+</div>

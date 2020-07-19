@@ -1,0 +1,69 @@
+.card{
+  min-height: 300px;
+}
+
+.rgba-black-strong, .rgba-black-strong:after {
+  height: 300px;
+}
+
+h5{
+  margin-top: 40px;
+  margin-bottom: 40px;
+  min-height: 90px;
+}
+
+.parent {
+  width: 400px; 
+  height: 300px;
+}
+
+/* .child {
+  width: 100%;
+  height: 100%;
+  transition: all .5s;
+  background-position: center;
+  background-size: cover;
+}
+
+.parent:hover .child,
+.parent:focus .child {
+  transform: scale(1.2);
+} */
+
+.mf-portfolio-page {
+  margin-bottom: 30px;
+  position: relative;
+}
+a.mf-portfolio-image-container1 {
+  display: block;
+  background: url('../../assets/images/all-online.jpg')no-repeat center center;
+  background-size: 150%;
+  transition: all 0.3s ease-in 0s;
+}
+a.mf-portfolio-image-container1:hover {
+  background-size: 200%;
+}
+
+.rgba-black-strong, .rgba-black-strong:after {
+  height: inherit;
+}
+
+a.mf-portfolio-image-container2 {
+  display: block;
+  background: url('../../assets/images/all-virtual1.jpg')no-repeat center center;
+  background-size: 130%;
+  transition: all 0.3s ease-in 0s;
+}
+a.mf-portfolio-image-container2:hover {
+  background-size: 180%;
+}
+
+a.mf-portfolio-image-container3 {
+  display: block;
+  background: url('../../assets/images/all-site.jpg')no-repeat center center;
+  background-size: 200%;
+  transition: all 0.3s ease-in 0s;
+}
+a.mf-portfolio-image-container3:hover {
+  background-size: 260%;
+}

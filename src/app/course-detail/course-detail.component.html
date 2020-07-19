@@ -1,0 +1,171 @@
+
+<div>
+  <br><br><br><br><br>
+</div>
+
+<div class="card card-image" style="background-image: url('../../assets/images/construction.png');">
+  
+  <div class="text-white text-center rgba-stylish-strong py-5 px-4">
+    <div class="py-5">
+      <br><br><br>
+
+      <!-- Content -->
+      <h1 class="text-center text-primary single-title" >{{detail?.detail}}</h1>
+      <br><br><br>
+    </div>
+  </div>
+  
+</div>
+
+<br><br>
+
+<div *ngIf="course" class="title">
+  <div [ngSwitch]="course.code">
+    <ng-template [ngSwitchCase]="'sst_special'">
+      <div>
+        <h2 >{{detail?.special}}</h2>
+        <br><br><br><br>
+      </div>
+    </ng-template>
+    <ng-template [ngSwitchCase]="'sst_general'">
+      <div>
+        <h2 >{{detail?.general}}</h2>
+        <br><br><br><br>
+      </div>
+    </ng-template>
+    <ng-template [ngSwitchCase]="'sst_super'">
+      <div>
+        <h2 >{{detail?.general}}</h2>
+        <br><br><br><br>
+      </div>
+    </ng-template>
+    <ng-template ngSwitchDefault>
+      <div>
+        <h1>{{course.name}} &nbsp; <span >{{detail?.detail}}</span></h1>
+        <br><br><br><br>
+      </div>
+    </ng-template>
+  </div>
+</div>
+
+<div class="container-fluid" style="padding-left: 15%;padding-right: 15%;">
+  <div class="row">
+    
+    <div *ngIf="course">
+      <div class="course">
+        <div [ngSwitch]="course.code">
+          <ng-template [ngSwitchCase]="'sst_special'">
+            <div>
+              <table class="table table-borderless sst-special">
+                <thead>
+                  <tr class="text-center">
+                    <th style="width: 40%;" >{{detail?.course}}</th>
+                    <th >{{detail?.desc}}</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr *ngFor="let item of course.contents" class="special-content">
+                    <td>{{item.course}}</td>
+                    <td>
+                      {{item.desc}}
+                      <ol type="a">
+                        <br><br><br>
+                        <li *ngFor="let subitem of item.lists">{{subitem}}</li>
+                      </ol>
+                    </td>
+                  </tr>
+                </tbody>
+    
+              </table>
+            </div>
+          </ng-template>
+          <ng-template [ngSwitchCase]="'sst_general'">
+            <div>
+              <table class="table table-borderless sst-special">
+                <thead>
+                  <tr class="text-center">
+                    <th style="width: 40%;" >{{detail?.course}}</th>
+                    <th >{{detail?.desc}}</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr *ngFor="let item of course.contents" class="special-content">
+                    <td>{{item.course}}</td>
+                    <td>
+                      {{item.desc}}
+                      <ol type="a">
+                        <br><br><br>
+                        <li *ngFor="let subitem of item.lists">{{subitem}}</li>
+                      </ol>
+                    </td>
+                  </tr>
+                </tbody>
+    
+              </table>
+            </div>
+          </ng-template>
+          <ng-template [ngSwitchCase]="'sst_super'">
+            <div>
+              <h2>{{course.name}}</h2>
+              <hr>
+              <br><br><br><br>
+              <h4 >{{detail?.include}}</h4>
+              <ul style="list-style: none;">
+                <li *ngFor="let item of course.include" style="font-size: 1.3rem;">{{item}}</li>
+              </ul>
+              <h4 >{{detail?.length}}</h4>
+              <h5>{{course.length}}&nbsp;<span >{{detail?.hour}}</span></h5><br>
+              <h4 >{{detail?.lang}}</h4>
+              <h5>{{course.language}}</h5><br>
+              <h4 >{{detail?.require}}</h4>
+              <h5>{{course.trainingRequirement}}</h5><br>
+              <h4 >{{detail?.desc}}</h4>
+              <h5 >
+                {{detail?.first}}
+                
+                <a routerLink="/course-page/SST-306" style="color: #ff6663;" >{{detail?.a1}} </a>,
+                <a routerLink="/course-page/SST-307" style="color: #ff6663;" >{{detail?.a2}} </a>,
+                <a routerLink="/course-page/SAF-201" style="color: #ff6663;" >{{detail?.a3}} </a>,
+                <a routerLink="/course-page/SST-305" style="color: #ff6663;" >{{detail?.a4}} </a>,
+                <a routerLink="/course-page/SST-304" style="color: #ff6663;" >{{detail?.a5}} </a>,
+                <a routerLink="/course-page/SST-301" style="color: #ff6663;" >{{detail?.a6}} </a>,
+                <a routerLink="/course-page/sst_general" style="color: #ff6663;" >{{detail?.a7}}</a>,
+                <a routerLink="/course-page/sst_general" style="color: #ff6663;" >{{detail?.a8}} </a>,
+                <a routerLink="/course-page/sst_general" style="color: #ff6663;" >{{detail?.a9}} </a>,
+                <a routerLink="/course-page/sst_special" style="color: #ff6663;" >{{detail?.a10}}</a>.
+
+                <br>
+                {{detail?.second}}
+                
+              </h5><br>
+            </div>
+          </ng-template>
+          <ng-template ngSwitchDefault>
+            <div>
+              <h2>{{course.name}}</h2>
+              <hr>
+              <br><br><br><br>
+              <h4 >{{detail?.dob}}</h4>
+              <h5>{{course.code}}</h5><br>
+              <h4 >{{detail?.length}}</h4>
+              <h5>{{course.length}}&nbsp;Hour</h5><br>
+              <h4 >{{detail?.lang}}</h4>
+              <h5>{{course.language}}</h5><br>
+              <h4 >{{detail?.require}}</h4>
+              <h5>{{course.trainingRequirement}}</h5><br>
+              <h4 >{{detail?.desc}}</h4>
+              <h5>{{course.description}}</h5><br>
+            </div>
+          </ng-template>
+        </div>
+      </div>
+      <!-- <div>
+        <h4 class="d-inline align-middle">{{course.cost | currency}}&nbsp;</h4>
+         <button class="btn btn-success d-inline"><h5 class="m-1">Add to Cart</h5></button> -->
+      <!-- </div> --> 
+      <br><br><br><br>
+      
+    </div>
+  </div>
+
+</div>

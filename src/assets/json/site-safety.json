@@ -1,0 +1,18 @@
+[
+  {
+    "name" : "40-HR Site Safety Manager",
+    "description" : "This course is a comprehensive review of Chapter 33 and the Rules of the City of New York that pertain to public protection. The purpose of the course is to initiate prospective candidates with safe job practices in New York City and to prepare those prospective candidates to take the Site Safety Manager’s test.",
+    "price" : "750"
+  },
+  {
+    "name" : "8-HR Site Safety Coordinator",
+    "description" : "The main objective of this course is to emphasize the importance of safety and protection of the public and workers on and around a jobsite. We will discuss revisions to the Building Codes, necessary actions to perform to ensure public safety, accident preventions, importance of maintaining logbooks, examines the roles of Site Safety Manager, Coordinator and a Superintendent and much more.",
+    "price" : "220"
+  },
+  {
+    "name" : "8-HR Site Safety Manager-Refresher",
+    "description" : "The 8-Hour Site Safety Manager Renewal/Chapter 33 Training course is a refresher to the 40-Hour Site Safety Manager Course, which is a comprehensive presentation of Chapter 33 and the Rules of the City of New York that pertains to public protection. During the training, students will review the hazards of working in the New York City construction environment and the specific methods and work practices that are necessary on an urban construction site.",
+    "price" : "220"
+  }
+
+]

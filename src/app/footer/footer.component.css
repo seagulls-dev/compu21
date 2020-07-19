@@ -1,0 +1,15 @@
+p{
+  font-size: 1.4rem;
+}
+
+.footers{
+  height: auto;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+@media only screen and (max-width : 420px){
+  .footers{
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+}

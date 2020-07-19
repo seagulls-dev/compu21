@@ -1,0 +1,76 @@
+<div class="container">
+  <br><br><br>
+  <div>
+    <h1 >{{online?.title1}}</h1>
+    <h3 >{{online?.title2}}</h3>
+  <!-- <h5 >online.description</h5> -->
+  </div>
+  <br><br>
+  <div class="row justify-content-center">
+    <ng-template [ngIf]="logined && addedtoCart">
+      <div class="col-12 text-center border rounded pb-2 pt-2 mb-5 mt-2" style="background-color: rgb(209, 255, 195);">
+        <h5 class="d-inline">You have successfully added course to your cart!&nbsp;</h5>
+        <a routerLink="/safety/carts" >{{online?.cart}}</a>
+      </div>
+    </ng-template>
+    <ng-template [ngIf]="!logined && addedtoCart">
+      <div class="col-12 text-center border rounded pb-2 pt-2 mb-5 mt-2" style="background-color: rgb(244, 255, 142);">
+        <h5 class="d-inline" >{{online?.warn}}&nbsp;</h5>
+        <a routerLink="/login" >{{online?.login}}</a>
+      </div>
+    </ng-template>
+
+    <div class="col-12 col-sm-6 col-md-4 col-lg-4 mf-portfolio-page" *ngFor="let course of onlineList" style="margin-bottom: 50px;">
+      <a routerLink="{{course.url}}" class="mf-portfolio-image-container2">
+        <div class="mf-portfolio-image-container-description">
+          <div class="text-white text-center d-flex align-items-center rgba-black-strong py-3 px-3">
+            <div class="card-body">
+              <h5 class="font-weight-bold mt-2">{{course.name}}</h5>
+
+              <br><br><br>
+
+              <!--Price -->
+              <div class="price pt-0">
+                <h4 class="number mb-0">{{course.old_price | currency}}</h4>
+              </div>
+              <div class="price pt-0">
+                <h2 class="number mb-0">{{course.price | currency}}</h2>
+              </div>
+              <br>
+
+              <a class="btn btn-rounded btn-outline-white" >online.train</a>
+
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+    
+    
+  </div>
+
+  <div class="contents">
+    <h5 class="font-weight-bold" >{{online?.content1}}
+      
+    </h5>
+    <ul>
+      <li >{{online?.content2}}
+        
+      </li>
+      <li >{{online?.content3}}
+         <br>
+        <a class="show_check text-info"  target="_blank" href="assets/rule.pdf">
+          {{online?.spec}}
+        </a>
+      </li>
+      <li class="profile" >{{online?.content4}}
+        
+        <div>
+          <img src="assets/images/profile.png">
+        </div>
+      </li>
+    </ul>
+  </div>
+
+  <br><br><br>
+</div>

@@ -1,0 +1,131 @@
+h1, h3, h5 {
+  color: white;
+}
+
+
+.carousel .view {
+  min-height: 900px;;
+  /* height: 100%; */
+}
+
+
+/* Carousel*/
+.carousel,
+.carousel-item,
+.carousel-item.active {
+  min-height: 900px;;
+  /* height: 100%; */
+}
+.carousel-inner {
+  min-height: 900px;;
+  /* height: 100%; */
+}
+.carousel-item:nth-child(1) {
+  background-image: url('../../assets/images/slider11.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+.carousel-item:nth-child(2) {
+  background-image: url('../../assets/images/slider2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+.carousel-item:nth-child(3) {
+  background-image: url('../../assets/images/slider3.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.carousel h1{
+  font-size: 4.5rem;
+}
+
+.carousel{
+  padding: 0;
+}
+
+.carousel .carousel-control-prev-icon, .carousel .carousel-control-next-icon {
+  width: 60px;
+  height: 60px;
+  background-color: rgb(0,0,0,0.5);
+  border-radius: 50%;
+}
+
+.card-deck{
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 60px;
+}
+
+.card-text{
+  min-height: 45px;
+  font-size: 1rem;
+}
+
+.card-title{
+  min-height: 60px;
+}
+
+.tooltips {
+  position: relative;
+}
+
+.tooltips .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: rgba(0,0,0,0.5);
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: 150%;
+  left: 0%;
+  margin-left: -60px;
+}
+
+.tooltips .tooltiptext::after {
+  content: "";
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent transparent black transparent;
+}
+
+.tooltips:hover .tooltiptext {
+  visibility: visible;
+}
+
+.law{
+  color: rgb(231, 46, 46);
+  width: 60%;
+  margin: 0 auto;
+  background-color: rgb(255,255,255,0.5);
+  padding: 20px;
+}
+
+@media only screen and (max-width : 576px){
+  .carousel-item h1{
+    font-size: 12vw;
+  }
+  .carousel-item h2{
+    font-size: 10vw;
+  }
+  .law{
+    font-size: 3.5vw;
+  }
+  
+  .carousel .carousel-control-prev-icon, .carousel .carousel-control-next-icon {
+    width: 30px;
+    height: 30px;
+    background-color: rgb(0,0,0,0.5);
+    border-radius: 50%;
+  }
+}

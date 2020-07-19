@@ -1,0 +1,366 @@
+[
+ {
+   "code": "SST-302",
+   "name": "Prevención de caídas de 4 HORAS",
+   "length": 4,
+   "language": "INGLÉS",
+   "trainingRequirement": "Para continuar operando en la Ciudad de Nueva York, el trabajador de la construcción designado debe completar un número mínimo de horas de capacitación aprobada en seguridad del sitio y llevar tarjetas de identificación de seguridad del sitio como prueba de la finalización de la capacitación (según Nueva York Ley Local de la Ciudad 196 de 2017 también conocida como 'LL196' o 'Ley Local'). Este curso proporciona cuatro horas para la satisfacción de ese requisito.",
+   "description": "Este curso ayudará a los alumnos a convertirse en términos generalmente familiares asociados con caídas en la construcción. Además, los alumnos podrán reconocer, evitar y evitar que los peligros de caídas causen daños. A continuación, los alumnos deben conocer los requisitos de seguridad reglamentarios asociados con las caídas, incluida la Subparte M. de OSHA. Además, los alumnos aprenderán cómo tomar decisiones informadas cuando trabajan desde las alturas",
+   "cost": 60
+ },
+ {
+  "code": "SST-305",
+  "name": "Conciencia de 2-HR sobre drogas y alcohol",
+  "length": 2,
+  "language": "INGLÉS",
+  "trainingRequirement": "Según la Ley Local 196, para continuar operando en la Ciudad de Nueva York, se requiere que algunos trabajadores y supervisores completen un número mínimo de horas de capacitación aprobada en seguridad del sitio. Este plan de estudios aprobado por el Departamento de Edificios de Nueva York es un curso prescrito (obligatorio) que cumple con uno de los requisitos para una persona que solicita una Tarjeta de Capacitación en Seguridad del Sitio (SST).",
+  "description": "Este curso ayudará a los alumnos a familiarizarse en general con los efectos adversos de las drogas y el alcohol en el lugar de trabajo. Los alumnos podrán reconocer los problemas asociados con la dependencia de sustancias. Esta capacitación también puede ayudar a los alumnos a reconocer y comprender mejor los problemas de dependencia química que pueden afectar negativamente las vidas.",
+  "cost": 60
+},
+ {
+   "code": "SST-307",
+   "name": "Prevención de caídas de 8 horas",
+   "length": 8,
+   "language": "INGLÉS, MANDARÍN, ESPAÑOL",
+   "trainingRequirement": "Según la Ley Local 196, para continuar operando en la Ciudad de Nueva York, se requiere que algunos trabajadores y supervisores completen un número mínimo de horas de capacitación aprobada en seguridad del sitio. Este plan de estudios aprobado por el Departamento de Edificios de Nueva York es un curso prescrito (obligatorio) que cumple con uno de los requisitos para una persona que solicita una Tarjeta de Capacitación en Seguridad del Sitio (SST).",
+   "description": "Las caídas se encuentran entre las causas más comunes de lesiones y muertes graves relacionadas con el trabajo. Según el Departamento de Edificios de la Ciudad de Nueva York (DOB), en 2016 hubo 305 accidentes graves en la construcción que involucraron caídas de trabajadores, 10 de ellos fueron mortales. Este curso de 8 horas tiene como objetivo educar a los trabajadores sobre cómo evitar accidentes y lesiones mientras trabajan en techos, bordes de ataque, escaleras o andamios mediante la definición de las normas y normas de seguridad asociadas con los riesgos de caídas en los sitios de construcción. Los participantes obtendrán el conocimiento y las habilidades necesarias para identificar y evitar los riesgos asociados con lugares de trabajo elevados.",
+   "cost": 220
+ },
+ {
+   "code": "SAF-202",
+   "name": "Actualización del administrador de seguridad del sitio de 8 horas / Capítulo 33",
+   "length": 8,
+   "language": "INGLÉS, MANDARÍN",
+   "trainingRequirement": "Según el Departamento de Edificios de Nueva York (DOB), Sección 104-6 del Título 1 de las Reglas de la Ciudad de Nueva York, este curso satisface los requisitos de renovación de educación continua de los licenciatarios para la Licencia de Administrador de Seguridad del Sitio (SSM) o Certificado de Coordinador de Seguridad del Sitio (SSC) . La licencia SMM vence cada tres (3) años y los titulares deben completar este curso un año inmediatamente antes de renovar su licencia. Los titulares de certificados SSC deben completar con éxito este curso cada año, ya que el NYC DOB requiere la renovación anual de la certificación del coordinador.",
+   "description": "Este curso es una revisión exhaustiva del Capítulo 33 y las Reglas de la Ciudad de Nueva York que se refieren a la protección pública durante la construcción. El propósito del curso es proporcionar capacitación con respecto a la construcción en edificios principales, que pueden ser clasificados por el Departamento de Construcción de la Ciudad de Nueva York, con énfasis en proporcionar no solo seguridad para el público y la propiedad contigua, sino proporcionar seguridad para los trabajadores dentro el sitio de trabajo según los requisitos de OSHA. Este curso es uno de los requisitos previos que un solicitante debe completar con éxito antes de ser elegible para solicitar el Examen de Certificado del Gerente de Seguridad del Sitio o la Tarjeta de Supervisor SST.",
+   "cost": 220
+ },
+ {
+   "code": "SAF-201",
+   "name": "Actualización del gerente de seguridad del sitio de 8 horas",
+   "length": 8,
+   "language": "INGLÉS",
+   "trainingRequirement": "Según el Departamento de Edificios de Nueva York (DOB), Sección 104-6 del Título 1 de las Reglas de la Ciudad de Nueva York, este curso satisface los requisitos de renovación de educación continua de los licenciatarios para la Licencia de Administrador de Seguridad del Sitio (SSM), Superintendente o Coordinador de Seguridad del Sitio (SSC) ) Certificado. La licencia SSM caduca cada tres (3) años y los titulares deben completar este curso un año inmediatamente antes de renovar su licencia. Los titulares de certificados SSC deben completar con éxito este curso cada año, ya que el DOB de NYC requiere la renovación anual de la certificación del coordinador.",
+   "description": "El curso de 8 horas de Renovación del Administrador de Seguridad del Sitio / Capítulo 33 es un repaso al Curso de Administrador de Seguridad del Sitio de 40 horas, que es una presentación completa del Capítulo 33 y las Reglas de la Ciudad de Nueva York relacionadas con la protección pública. Durante la capacitación, los estudiantes revisarán los riesgos de trabajar en el entorno de construcción de la ciudad de Nueva York y los métodos y prácticas de trabajo específicos que son necesarios en un sitio de construcción urbana..",
+   "cost": 220
+ },
+ {
+   "code": "SAF-103",
+   "name": "Coordinador de seguridad del sitio 8-HR",
+   "length": 8,
+   "language": "INGLÉS",
+   "trainingRequirement": "De conformidad con 1 RCNY 3301-02, este curso es un requisito de calificación para los candidatos que buscan obtener el Certificado de Coordinador de Seguridad del Sitio del Departamento de Edificios de Nueva York o para registrarse / renovarse como Superintendente de Construcción.",
+   "description": "De conformidad con 1 RCNY 3301-02, el objetivo principal de este curso es enfatizar la importancia de la seguridad y la protección del público y los trabajadores en y alrededor de un lugar de trabajo. Discutiremos las revisiones de los Códigos de Construcción, las acciones necesarias para garantizar la seguridad pública, la prevención de accidentes, la importancia de mantener los libros de registro, examinar los roles de Gerente de Seguridad del Sitio, Coordinador y Superintendente y mucho más. El curso es un requisito de calificación para los candidatos que buscan para obtener el Certificado de Coordinador de Seguridad del Sitio del Departamento de Edificios de Nueva York o para registrarse / renovarse como Superintendente de Construcción.",
+   "cost": 220
+ },
+ {
+   "code": "SST-306",
+   "name": "Usuario de andamio y actualización de 4 HORAS",
+   "length": 4,
+   "language": "INGLÉS",
+   "trainingRequirement": "Según la Ley Local 52 de 2005, este curso es obligatorio para los trabajadores que utilizan andamios compatibles en sitios de construcción en la ciudad de Nueva York. Esta capacitación se requiere cada 4 años.",
+   "description": "Este curso explica los elementos básicos de la seguridad de los andamios compatibles y presenta a los estudiantes la naturaleza de los riesgos de los andamios compatibles. Durante el curso, se hace hincapié en el papel del usuario del andamio en la prevención de accidentes, que incluye inspecciones de andamios, protección contra caídas, reconocimiento de riesgos y respuesta a emergencias.",
+   "cost": 220
+ },
+ {
+   "code": "SCA-201",
+   "name": "Usuario de andamio y actualización de 4 horas",
+   "length": 4,
+   "language": "INGLÉS, MANDARÍN, ESPAÑOL",
+   "trainingRequirement": "Según la Ley Local 52 de 2005, este curso es obligatorio para los trabajadores que utilizan andamios compatibles en sitios de construcción en la ciudad de Nueva York. Esta capacitación se requiere cada 4 años..",
+   "description": "Este curso explica los elementos básicos de la seguridad de los andamios compatibles y presenta a los estudiantes la naturaleza de los riesgos de los andamios compatibles. Durante el curso se hace hincapié en el papel del usuario del andamio en la prevención de accidentes, que incluye inspecciones de andamios, protección contra caídas, reconocimiento de riesgos y respuesta a emergencias.",
+   "cost": 150
+ },
+ {
+   "code": "SST-301",
+   "name": "Plan de seguridad del sitio de 2 horas",
+   "length": 2,
+   "language": "INGLÉS, MANDARÍN, ESPAÑOL",
+   "trainingRequirement": "Según la Ley Local 196, para continuar operando en la Ciudad de Nueva York, se requiere que algunos trabajadores y supervisores completen un número mínimo de horas de capacitación aprobada en seguridad del sitio. Este plan de estudios aprobado por el Departamento de Edificios de Nueva York es un curso prescrito (obligatorio) que cumple con uno de los requisitos para una persona que solicita una Tarjeta de Capacitación en Seguridad del Sitio (SST).",
+   "description": "Este curso ayudará a los alumnos a familiarizarse en general con los planes y el plan de seguridad del sitio. Los alumnos podrán reconocer problemas con un plan de seguridad del sitio. El instructor explicará la necesidad de utilizar los planes de seguridad y logística del sitio para la gestión de la seguridad del sitio. Además, los alumnos también aprenderán en detalle qué se incluye en el Plan de seguridad del sitio a partir de la Plantilla del plan de seguridad del sitio.",
+   "cost": 60
+ },
+ {
+   "code": "SST-304",
+   "name": "Charlas de caja de herramientas de 2 horas",
+   "length": 2,
+   "language": "INGLÉS, MANDARÍN, ESPAÑOL",
+   "trainingRequirement": "Según la Ley Local 196, para continuar operando en la Ciudad de Nueva York, se requiere que algunos trabajadores y supervisores completen un número mínimo de horas de capacitación aprobada en seguridad del sitio. Este plan de estudios aprobado por el Departamento de Edificios de Nueva York es un curso prescrito (obligatorio) que cumple con uno de los requisitos para una persona que solicita una Tarjeta de Capacitación en Seguridad del Sitio (SST).",
+   "description": "Este curso ayudará a los alumnos a familiarizarse en general con Toolbox Talks como una forma rápida y fácil para que las personas competentes refuercen y complementen los esfuerzos de capacitación establecidos del empleador y mantengan el cumplimiento de la seguridad y la salud a la vanguardia de todas las mentes de los trabajadores. Además, este curso elevará la conciencia de los alumnos sobre la necesidad de charlas efectivas sobre la caja de herramientas. Además, los alumnos podrán demostrar cómo obtener retroalimentación de los trabajadores cuando brinden charlas sobre la caja de herramientas para que las charlas se vuelvan más relevantes para las tareas que realizan los trabajadores.",
+   "cost": 60
+ },
+ {
+   "code": "SST-303",
+   "name": "Reunión previa a la tarea de 2 horas",
+   "length": 2,
+   "language": "INGLÉS, MANDARÍN, ESPAÑOL",
+   "trainingRequirement": "Según la Ley Local 196, para continuar operando en la Ciudad de Nueva York, se requiere que algunos trabajadores y supervisores completen un número mínimo de horas de capacitación aprobada en seguridad del sitio. Este plan de estudios aprobado por el Departamento de Edificios de Nueva York es un curso prescrito (obligatorio) que cumple con uno de los requisitos para una persona que solicita una Tarjeta de Capacitación en Seguridad del Sitio (SST).",
+   "description": "En este curso, los alumnos aprenderán el propósito y la presentación adecuada de las reuniones previas a la tarea. Además, los alumnos se darán cuenta de los requisitos reglamentarios administrativos asociados a las reuniones previas a la tarea y los estándares de mantenimiento de registros. Nuestro instructor explicará el contexto de una reunión previa a la tarea y que dichas reuniones se derivan de un plan más formal conocido como análisis de riesgos laborales y otros términos como un análisis de seguridad laboral, un plan de trabajo seguro o un procedimiento de evaluación de riesgos.",
+   "cost": 60
+ },
+ {
+   "code": "SST-202",
+   "name": "Entrada de espacio confinado de 1 hora",
+   "length": 1,
+   "language": "INGLÉS, MANDARÍN, ESPAÑOL",
+   "trainingRequirement": "La Ley Local 196 de 2017 requiere que ciertos trabajadores y supervisores reciban capacitación en seguridad en los sitios de construcción que deben designar un Superintendente de Construcción, un Coordinador de Seguridad del Sitio o un Gerente de Seguridad del Sitio. Para el 1 de septiembre de 2020, los trabajadores necesitarán un total de 40 horas de capacitación para calificar para una tarjeta de Capacitación en Seguridad del Sitio (SST). Los supervisores deben tener un total de 62 horas de capacitación antes del 1 de junio de 2019 y haber obtenido la tarjeta Supervisor SST.",
+   "description": "En este curso, los alumnos se familiarizarán en general con los espacios confinados y permitirán los espacios confinados necesarios y reconocerán dichos espacios. Además, los alumnos deben conocer los requisitos de seguridad reglamentarios administrativos asociados con los espacios confinados. Además, definiremos la definición de OSHA de un espacio confinado con sus 3 criterios y proporcionaremos ejemplos ilustrativos.",
+   "cost": 35
+ },
+ {
+   "code": "SST-203",
+   "name": "Construcción de hormigón y mampostería de 1 hora",
+   "length": 1,
+   "language": "INGLÉS, MANDARÍN, ESPAÑOL",
+   "trainingRequirement": "La Ley Local 196 de 2017 requiere que ciertos trabajadores y supervisores reciban capacitación en seguridad en los sitios de construcción que deben designar un Superintendente de Construcción, un Coordinador de Seguridad del Sitio o un Gerente de Seguridad del Sitio. Para el 1 de septiembre de 2020, los trabajadores necesitarán un total de 40 horas de capacitación para calificar para una tarjeta de Capacitación en Seguridad del Sitio (SST). Los supervisores deben tener un total de 62 horas de capacitación antes del 1 de junio de 2019 y haber obtenido la tarjeta Supervisor SST.",
+   "description": "En este curso, los alumnos se familiarizarán en general con diversos procesos de fundición en operaciones concretas. Además, los alumnos podrán reconocer los peligros asociados con las operaciones típicas de concreto en el lugar. Además, los alumnos podrán evitar los riesgos para la salud asociados con el hormigón. Brevemente, en términos no científicos, explique la naturaleza física del hormigón y el hormigón armado, para que los alumnos tengan una mejor perspectiva de 'panorama general' del hormigón como material de construcción fundamental. ",
+   "cost": 35
+ },
+ {
+   "code": "SST-110",
+   "name": "Escaleras y escaleras de 1 hora",
+   "length": 1,
+   "language": "INGLÉS, MANDARÍN, ESPAÑOL",
+   "trainingRequirement": "La Ley Local 196 de 2017 requiere que ciertos trabajadores y supervisores reciban capacitación en seguridad en los sitios de construcción que deben designar un Superintendente de Construcción, un Coordinador de Seguridad del Sitio o un Gerente de Seguridad del Sitio. Para el 1 de septiembre de 2020, los trabajadores necesitarán un total de 40 horas de capacitación para calificar para una tarjeta de Capacitación en Seguridad del Sitio (SST). Los supervisores deben tener un total de 62 horas de capacitación antes del 1 de junio de 2019 y haber obtenido la tarjeta Supervisor SST.",
+   "description": "En este curso, los alumnos se familiarizarán en general con los espacios confinados y permitirán los espacios confinados necesarios y reconocerán dichos espacios. Además, los alumnos deben conocer los requisitos de seguridad reglamentarios administrativos asociados con los espacios confinados. Además, definiremos la definición de OSHA de un espacio confinado con sus 3 criterios y proporcionaremos ejemplos ilustrativos.",
+   "cost": 35
+ },
+ {
+   "code": "SST-111",
+   "name": "Herramientas de 1 hora: mano y potencia",
+   "length": 1,
+   "language": "INGLÉS, MANDARÍN, ESPAÑOL",
+   "trainingRequirement": "La Ley Local 196 de 2017 requiere que ciertos trabajadores y supervisores reciban capacitación en seguridad en los sitios de construcción que deben designar un Superintendente de Construcción, un Coordinador de Seguridad del Sitio o un Gerente de Seguridad del Sitio. Para el 1 de septiembre de 2020, los trabajadores necesitarán un total de 40 horas de capacitación para calificar para una tarjeta de Capacitación en Seguridad del Sitio (SST). Los supervisores deben tener un total de 62 horas de capacitación antes del 1 de junio de 2019 y haber obtenido la tarjeta Supervisor SST.",
+   "description": "En este curso, los alumnos se familiarizarán en general con los espacios confinados y permitirán los espacios confinados necesarios y reconocerán dichos espacios. Además, los alumnos deben conocer los requisitos de seguridad reglamentarios administrativos asociados con los espacios confinados. Además, definiremos la definición de OSHA de un espacio confinado con sus 3 criterios y proporcionaremos ejemplos ilustrativos.",
+   "cost": 35
+ },
+ {
+   "code": "SAF-102",
+   "name": "Gerente de seguridad del sitio de 40 horas",
+   "length": 40,
+   "language": "INGLÉS",
+   "trainingRequirement": "Según los Códigos de Construcción de Nueva York - Título 28 Disposiciones Administrativas Generales, para obtener un Certificado de Gerente de Seguridad del Sitio o Coordinador de Seguridad del Sitio *, los solicitantes deben completar presentar a la Unidad de Licencia un certificado de finalización por 40 horas de capacitación. Además, según las Reglas del Título 1 de la Ciudad de Nueva York 3301-02, para registrarse como Superintendente de Construcción *, los solicitantes deben completar presentar a la Unidad de Licencia un certificado de finalización por 40 horas de capacitación.",
+   "description": "Este curso es una revisión exhaustiva del Capítulo 33 y las Reglas de la Ciudad de Nueva York relacionadas con la protección pública. El propósito del curso es iniciar candidatos potenciales con prácticas laborales seguras en la ciudad de Nueva York y preparar a esos candidatos potenciales para tomar la prueba del Administrador de Seguridad del Sitio.",
+   "cost": 750
+ },
+ {
+   "code": "SCA-102",
+   "name": "Instalador y removedor de andamios compatibles con 32 horas",
+   "length": 32,
+   "language": "INGLÉS, MANDARÍN",
+   "trainingRequirement": "Según la Ley Local 52 de la Ciudad de Nueva York de 2005, este curso es obligatorio para los trabajadores que instalen, retiren o modifiquen andamios compatibles de más de 40 pies en sitios de construcción en la ciudad de Nueva York.",
+   "description": "Los instructores demostrarán métodos seguros de instalación, extracción y modificación de diferentes tipos de andamios compatibles utilizando las regulaciones de OSHA, los estándares DOB y las buenas prácticas de trabajo como guía. Algunos temas cubiertos durante el curso incluirán componentes principales del andamio, la importancia de una planificación previa adecuada, capacitación de los trabajadores y cómo leer los dibujos de diseño del andamio. A lo largo del curso, los estudiantes también participarán en ejercicios prácticos en los que construirán y desmontarán andamios soportados, aplicarán varios nudos en la cuerda y demostrarán capacidad para aplicar técnicas básicas de aparejo.",
+   "cost": 700
+ },
+ {
+   "code": "SCA-202",
+   "name": "Instalador de andamios de 8 horas compatible y actualización del removedor",
+   "length": null,
+   "language": "INGLÉS, MANDARÍN",
+   "trainingRequirement": "Según la Ley Local 52 de la Ciudad de Nueva York de 2005, para continuar instalando o eliminando Andamios compatibles en la ciudad de Nueva York, una persona debe completar con éxito este curso de capacitación de 8 horas de Instalador de andamios admitidos y Actualización de removedor cuatro años después de completar el Instalador de andamios admitidos de 32 horas y Curso de eliminación y cada cuatro años a partir de entonces. La tarjeta de andamio original debe renovarse dentro de 1 año a partir de su fecha de vencimiento. Si el individuo no renueva su tarjeta dentro del tiempo permitido, ya no será elegible para asistir a un Refresco de 8 horas y deberá retomar la clase original de 32 horas.",
+   "description": "Durante este curso, los estudiantes discutirán cambios y actualizaciones a las políticas, procedimientos y estándares de andamios compatibles de OSHA y del Departamento de Edificios de la Ciudad de Nueva York (DOB). Los estudiantes también tendrán la oportunidad de compartir experiencias y opiniones en el lugar de trabajo sobre nuevos sistemas y soluciones de andamios compatibles. Este conocimiento ayudará a los trabajadores a prepararse y participar adecuadamente en el proceso de instalación / eliminación de andamios compatibles.",
+   "cost": 220
+ },
+ {
+   "code": "OSHA30",
+   "name": "OSHA30",
+   "length": 30,
+   "language": "INGLÉS, MANDARÍN, ESPAÑOL",
+   "trainingRequirement": "La Ley Local 196 ordena la finalización de la capacitación de OSHA para supervisores empleados dentro de los Cinco Distritos en proyectos de cierto tamaño. Se requiere que los supervisores, incluidos los Supers de construcción, los Gerentes de seguridad del sitio, los Coordinadores de seguridad del sitio, los Gerentes de seguridad del concreto o las Personas competentes presenten evidencia de la finalización del programa de Capacitación de Seguridad de Construcción de 30-HR OSHA antes del 1 de diciembre de 2019.  En Nuevo York City, la capacitación de 30-HR OSHA se requiere para las personas que solicitan como Gerente de seguridad del sitio, Coordinador de seguridad del sitio y / o Superintendente en función de las calificaciones del solicitante. Además, este programa es cada vez más un requisito principal para el personal de supervisión en muchos contratos de construcción en NY, NJ, Rhode Island y Connecticut.",
+   "description": "Este programa incluye políticas, procedimientos y estándares de OSHA, así como también principios de seguridad y salud en la construcción. La capacitación pondrá énfasis en aquellas áreas que son más peligrosas, utilizando los estándares de OSHA como guía. Este programa es más aplicable para el supervisor de construcción, con un enfoque más intensivo en varios estándares de seguridad y salud ocupacional. Los participantes del curso pueden esperar poder localizar e identificar los estándares de OSHA en 29 CFR 1926; identificar causas comunes de accidentes y muertes en áreas peligrosas de construcción; recomendar técnicas de reducción para tales peligros; y reconocer varios procesos de construcción, materiales y equipos..",
+   "cost": 400
+ },
+ {
+   "code": "home_improve",
+   "name": "Contratista de mejoras para el hogar",
+   "length": 3,
+   "language": "INGLÉS",
+   "trainingRequirement": "Una persona o empresa debe tener una licencia de contratista de mejoras en el hogar si se dedica a la construcción, reparación, remodelación o adición a cualquier terreno o edificio utilizado como residencia. Esto incluye, pero no se limita a, la construcción, el reemplazo o la mejora de sótanos, entradas de vehículos, cercas, garajes, paisajismo, patios, porches, aceras, piscinas, terrazas y otras mejoras a estructuras o terrenos cercanos a una casa o edificio de apartamentos.",
+   "description": "Nuestro instructor revisará la ley comercial de mejoras para el hogar, los deberes y responsabilidades de un contratista, el contenido y la cancelación de contratos, las prácticas de publicidad y venta, el conocimiento general de la industria.",
+   "cost": 400
+ },
+ {
+   "code": "autocad",
+   "name": "AutoCAD",
+   "length": "Puede durar hasta 12 semanas, una clase en una semana, 3 horas en un día",
+   "language": "INGLÉS, CHINO",
+   "trainingRequirement": "",
+   "description": "AutoCAD es una aplicación comercial de diseño asistido por computadora (CAD) y software de dibujo. Este curso está diseñado para construcción, desarrollo de edificios, reparaciones / alteraciones y otros campos. Los trabajadores de la industria de la construcción con responsabilidades de supervisión, supervisión y seguridad no pueden darse el lujo de ser tomados por sorpresa, especialmente cuando hay más vidas en juego.",
+   "cost": 400
+ },
+ {
+   "code": "revit",
+   "name": "Revit 3D",
+   "length": "Puede durar hasta 6 semanas, una clase en una semana, 3 horas en un día",
+   "language": "INGLÉS, CHINO",
+   "trainingRequirement": "",
+   "description": "Autodesk Revit está construyendo software de modelado de información para arquitectos, arquitectos paisajistas, ingenieros estructurales, ingenieros MEP, diseñadores y contratistas.",
+   "cost": 400
+ },
+ {
+   "code" : "sst_special",
+   "contents" : [
+     {
+       "course" : "Conciencia de 1 hora sobre el asbesto / plomo",
+       "desc" : "En este curso, los alumnos en general se familiarizarán con los efectos del asbesto y el plomo en la salud en el lugar de trabajo. Además, los alumnos podrán reconocer lugares y lugares donde se pueden encontrar materiales que contienen asbesto y plomo en la industria de la construcción. A continuación, los alumnos podrán evitar los riesgos para la salud asociados con el asbesto y el plomo. Además, los alumnos deben conocer los requisitos administrativos de seguridad asociados con el asbesto y el plomo en el lugar de trabajo..",
+       "lists" :[]
+     },
+     {
+      "course" : "Entrada de espacio confinado de 1 hora",
+      "desc" : "En este curso, los alumnos se familiarizarán en general con los espacios confinados y permitirán los espacios confinados necesarios y reconocerán dichos espacios. Además, los alumnos deben conocer los requisitos de seguridad reglamentarios administrativos asociados con los espacios confinados. Además, definiremos la definición de OSHA de un espacio confinado con sus 3 criterios y proporcionaremos ejemplos ilustrativos.",
+      "lists" :[]
+    },
+    {
+      "course" : "Construcción de hormigón y mampostería de 1 hora",
+      "desc" : "En este curso, los alumnos se familiarizarán en general con diversos procesos de fundición en operaciones concretas. Además, los alumnos podrán reconocer los peligros asociados con las operaciones típicas de concreto en el lugar. Además, los alumnos podrán evitar los riesgos para la salud asociados con el hormigón. Brevemente, en términos no científicos, explique la naturaleza física del hormigón y el hormigón armado, para que los alumnos tengan una mejor perspectiva de 'panorama general' del hormigón como material de construcción fundamental. ",
+      "lists" :[]
+    },
+    {
+      "course" : "Grúas, torres de perforación, montacargas, elevadores y transportadores de 1 hora",
+      "desc" : "En este curso, los alumnos se convertirán en componentes generalmente familiares de grúas, torres de perforación, montacargas, elevadores y sistemas de transporte. Además, los alumnos podrán reconocer y evitar los riesgos asociados con grúas, grúas, montacargas, elevadores y sistemas de transporte. Explique que el propósito de esta capacitación ayuda a los alumnos a reconocer, evitar y prevenir problemas de elevación y aparejo (RAP) y proporcionar información básica sobre aparejos.",
+      "lists" :[]
+    },
+    {
+      "course" : "Seguridad de demolición de 1 hora",
+      "desc" : "En este curso, los alumnos en general se familiarizarán con los peligros típicos de las actividades de demolición. Además, los alumnos podrán reconocer y evitar riesgos asociados con las operaciones de demolición. A continuación, los alumnos deben conocer los requisitos de seguridad administrativa asociados con la actividad de demolición. Además, los alumnos serán introducidos generalmente a los medios y métodos típicos o demolición.",
+      "lists" :[]
+    },
+    {
+      "course" : "Ergonomía de 1 hora",
+      "desc" : "En este curso, los alumnos se familiarizarán en general con la forma en que el cuerpo humano interactúa y utiliza el equipo, mueve el material y realiza tareas. Además, los alumnos podrán reconocer cuándo es probable que existan riesgos ergonómicos y cómo evitar lesionarse. Además, los alumnos podrán evitar el riesgo de músculo. ",
+      "lists" :[]
+    },
+    {
+      "course" : "Excavaciones de 1 hora",
+      "desc" : "En este curso, los alumnos se familiarizarán con los términos asociados con las excavaciones y las actividades subyacentes. Además, los alumnos en general se familiarizarán con el reconocimiento, la prevención y la prevención de problemas de seguridad relacionados con fallas del suelo, socavamiento y colapso estructural. A continuación, los alumnos aprenderán las responsabilidades del titular del permiso para proyectar estructuras adyacentes. Además, los alumnos aprenderán el papel de las personas competentes en las excavaciones..",
+      "lists" :[]
+    },
+    {
+      "course" : "Persona de bandera de 1 hora",
+      "desc" : "En este curso, los alumnos en general se familiarizarán con el papel de los abanderados (persona de abanderamiento) y los observadores y la diferencia y similitudes. Además, los alumnos aprenderán varias reglas diseñadas para proteger a los trabajadores de las huelgas de vehículos. A continuación, los alumnos podrán reconocer problemas con la gestión y el control del tráfico. Además, los alumnos deben conocer los requisitos administrativos y reglamentarios asociados con los trabajos de construcción y el control del tráfico.",
+      "lists" :[]
+    },
+    {
+      "course" : "Análisis de riesgos laborales de 1 hora",
+      "desc" : "En este curso, los alumnos en general se familiarizarán con la forma de evaluar y controlar los riesgos asociados con cualquier tipo de tarea o actividad a través de un Análisis de Riesgos Laborales. Además, los alumnos podrán reconocer y describir la jerarquía de controles y los medios respectivos de implementación. A continuación, los alumnos podrán reconocer la importancia de realizar un Análisis de riesgos laborales. Además, los alumnos practicarán utilizando técnicas de aversión al riesgo.",
+      "lists" :[]
+    },
+    {
+      "course" : "Ascensores de personal de 1 hora / elevadores aéreos / elevadores de tijera Seguridad",
+      "desc" : "En este curso, los alumnos se familiarizarán en general con los diferentes tipos de ascensores de personal y los riesgos asociados. Además, los alumnos deben conocer los requisitos de seguridad asociados con los ascensores de personal:",
+      "lists" : [
+        "Caídas desde el elevador al nivel inferior.",
+        "Golpeado por objetos que caen de ascensores de personal.",
+        "Peligros electricos.",
+        "Peligros derivados de fuentes de energía no controladas, es decir, vapor, residuos, mecánica.",
+        "Atrapado en el medio, peligros de enganche.",
+        "Inclinación de los riesgos potenciales de elevación"
+      ]
+    },
+    {
+      "course" : "Vehículos motorizados de 1 hora, equipos mecanizados y operaciones marinas; estructuras de protección antivuelco y protección aérea; y señales, señales y barricadas",
+      "desc" : "En este curso, los alumnos aprenderán los términos y tipos seleccionados de equipos mecanizados y los controles de seguridad asociados. Además, los alumnos se darán cuenta de los requisitos de seguridad reglamentarios administrativos asociados con equipos grandes. Además, describiremos, ilustraremos y brindaremos diferentes ejemplos de:",
+      "lists" : [
+        "Vehículos de motor",
+        "Equipo mecanizado",
+        "Grúas y torres de perforación",
+        "Operaciones de Maine",
+        "Protecciones antivuelco",
+        "Protección de arriba",
+        "Señales Señales y Barricadas"
+      ]
+    },
+    {
+      "course" : "1 hora de evaluación de riesgos e investigación de accidentes",
+      "desc" : "En este curso, los alumnos en general se familiarizarán con los diversos componentes de una investigación de incidente / accidente. Además, los alumnos deberían ser capaces de reconocer buenos procesos de investigación y comprender y distinguir la causalidad raíz de otras causas más superficiales. Además, definiremos varios términos asociados con las investigaciones de accidentes / incidentes. También discutiremos la 'regla simple' para realizar buenas investigaciones, solo preguntaremos 'por qué' y 'cómo' hasta que no haya más respuestas. ",
+      "lists" :[]
+    },
+    {
+      "course" : "Andamios de 1 hora - suspendidos",
+      "desc" : "En este curso, los alumnos serán generalmente conscientes de los riesgos asociados con los andamios suspendidos. Además, los alumnos conocerán los requisitos administrativos de seguridad asociados con los andamios suspendidos. Además, ilustraremos diferentes tipos de andamios suspendidos, tales como catenaria, flotador (barco), andamio interior, andamio de suspensión de dos puntos y varios niveles, ajustable en múltiples puntos, viga de aguja, ajustable en un solo punto.",
+      "lists" :[]
+    },
+    {
+      "course" : "Erección de acero de 1 hora",
+      "desc" : "En este curso, los alumnos se convertirán en términos familiares y procesos de montaje de acero y sus riesgos de seguridad asociados. Además, los alumnos deben conocer los requisitos de seguridad reglamentarios administrativos asociados con la construcción de acero en la ciudad de Nueva York. Luego, los alumnos podrán definir la definición de OSHA de Erección de Acero (es muy específica). Además, los alumnos podrán ilustrar estadísticamente la importancia de las operaciones seguras de montaje de acero para los trabajadores y la seguridad pública y la propiedad.. ",
+      "lists" :[]
+    },
+    {
+      "course" : "1 hora de soldadura y corte",
+      "desc" : "En este curso, los alumnos en general se familiarizarán y podrán describir y reconocer actividades de trabajo de soldadura y quema y varios componentes de seguridad relacionados. Además, los alumnos podrán reconocer los riesgos de seguridad y salud asociados con las actividades de soldadura y quema. A continuación, los alumnos podrán evitar los riesgos de seguridad y salud asociados con las actividades de soldadura y quema. Además, los alumnos podrán prevenir y controlar los riesgos de seguridad y salud asociados con las actividades de soldadura y quema. Además, los alumnos deben conocer los requisitos y procesos administrativos de seguridad asociados con las actividades de soldadura y quema.",
+      "lists" :[]
+    },
+    {
+      "course" : "Fundamentos de 2.50 horas para el liderazgo en seguridad",
+      "desc" : "En este curso, los alumnos en general se familiarizarán y podrán describir y reconocer actividades de trabajo de soldadura y quema y varios componentes de seguridad relacionados. Además, los alumnos podrán reconocer los riesgos de seguridad y salud asociados con las actividades de soldadura y quema. A continuación, los alumnos podrán evitar los riesgos de seguridad y salud asociados con las actividades de soldadura y quema. Además, los alumnos podrán prevenir y controlar los riesgos de seguridad y salud asociados con las actividades de soldadura y quema. Además, los alumnos deben conocer los requisitos y procesos administrativos de seguridad asociados con las actividades de soldadura y quema.",
+      "lists" :[]
+    }
+   ]
+ },
+ {
+   "code" : "sst_general",
+   "contents" : [
+     {
+       "course" : "Prevención de electrocución de 1 hora",
+       "desc" : "En este curso, los alumnos se familiarizarán en general con los términos y el fenómeno de la electricidad y cómo causa daño. Además, los alumnos podrán reconocer los peligros eléctricos y las trampas de error asociadas con la posibilidad de que la electricidad cause daños. Nuestro instructor explicará los Principios básicos de electricidad en términos (analogía) para que los alumnos puedan comprender la electricidad, la corriente, el circuito, la resistencia, los conductores, la conexión a tierra, los aislantes, la energía incidente y describan la temperatura del flash / explosión."
+     },
+     {
+      "course" : "Protección contra incendios y prevención de 1 hora",
+      "desc" : "En este curso, los alumnos se familiarizarán en general con la química del fuego, ya que prácticamente se refiere a la construcción. Además, los alumnos podrán reconocer el potencial de incendio para evitar riesgos de incendio. Además, los alumnos deben conocer los requisitos administrativos reglamentarios de seguridad contra incendios asociados a la construcción (FDNY, NFPA 241)."
+    },
+    {
+      "course" : "1 hora de primeros auxilios y RCP",
+      "desc" : "En este curso, los alumnos en general se familiarizarán con los términos, equipos y procedimientos asociados con primeros auxilios y RCP. Además, los alumnos podrán reconocer cuándo ellos u otros trabajadores están experimentando una emergencia médica. Además, los alumnos aprenderán los requisitos reglamentarios para el uso y la administración de primeros auxilios y RCP."
+    },
+    {
+      "course" : "Manejo de 1 hora de materiales pesados y técnicas de elevación adecuadas",
+      "desc" : "En este curso, los alumnos en general se familiarizarán con los Programas de Salud y Seguridad (HASP). Además, los alumnos aprenderán cómo buscar y revisar temas que provienen de los HASP. A continuación, explicaremos y describiremos la diferencia entre 'seguridad' y 'salud' en términos de exposiciones agudas a lesiones y exposiciones más crónicas a enfermedades y dolencias, respectivamente. Además, enfatizaremos la importancia de un programa efectivo de prevención de lesiones y enfermedades (IIPP) y describiremos el contexto de la gestión del programa y las políticas, procedimientos y procesos que surgen de los mismos."
+    },
+    {
+      "course" : "Programas de salud y seguridad de 1 hora en construcción",
+      "desc" : "En este curso, los alumnos se familiarizarán con la estrategia jerárquica de mover / levantar material pesado. Además, los alumnos podrán reconocer los riesgos asociados con el sobreesfuerzo y el estrés musculoesquelético. Además, los alumnos podrán evitar lesiones asociadas con el levantamiento."
+    },
+    {
+      "course" : "Elevación y aparejo de 1 hora",
+      "desc" : "En este curso, los alumnos se familiarizarán en general con los términos y diversos equipos utilizados durante las operaciones y actividades de elevación y aparejo. Además, los alumnos podrán reconocer y evitar los riesgos típicos asociados con la elevación y la manipulación. Además, los alumnos serán introducidos en un NIVEL DE CONCIENCIACIÓN, información básica sobre aparejos y principios de elevación.."
+    },
+    {
+      "course" : "Manejo de materiales, almacenamiento, uso y eliminación de 1 hora",
+      "desc" : "En este curso, los alumnos se familiarizarán en general con la forma adecuada de manipular, almacenar y desechar el material de construcción y los escombros. Además, los alumnos aprenderán a reconocer los peligros y los controles apropiados asociados con el manejo, almacenamiento y eliminación de material de construcción."
+    },
+    {
+      "course" : "Protección de 1 hora contra la exposición al sol",
+      "desc" : "En este curso, los alumnos se familiarizarán en general con los efectos de la sobreexposición al calor y la luz solar. Además, los alumnos aprenderán cómo los rayos ultravioleta (UV) cambian la estructura de las células de la piel y cómo una exposición aumentada y sin protección puede provocar cáncer de piel. Además, los alumnos aprenderán cómo proteger y minimizar la exposición a la luz solar excesiva."
+    },
+    {
+      "course" : "Lesiones por movimiento repetitivo de 1 hora",
+      "desc" : "En este curso, los alumnos aprenderán qué se entiende por trastornos de 'movimiento repetitivo' y cómo se producen. Además, los alumnos podrán reconocer y evitar los peligros repetitivos y ergonómicos asociados a las actividades de construcción. Nuestro instructor explicará qué se entiende por 'movimiento repetitivo' y proporcionará ejemplos, posibles lesiones y daños físicos.."
+    },
+    {
+      "course" : "Escaleras y escaleras de 1 hora",
+      "desc" : "En este curso, los alumnos se familiarizarán en general con las partes de escaleras y escaleras. Además, los alumnos podrán reconocer y evitar los riesgos asociados con las escaleras y escaleras. Además, los alumnos deben conocer los requisitos administrativos de seguridad asociados con la seguridad de escaleras y escaleras. Nuestro instructor proporcionará estadísticas ocupacionales sobre escaleras y escaleras."
+    },
+    {
+      "course" : "Herramientas de 1 hora: mano y potencia",
+      "desc" : "En este curso, los alumnos en general se convertirán en peligros y controles familiares asociados con el uso de herramientas para que puedan reconocer problemas y evitar lesiones y mal uso. Además, nuestro instructor informará y describirá cómo se debe capacitar a los trabajadores en el uso seguro y adecuado de las herramientas. También describiremos el equipo de protección personal adecuado para el uso de todas las herramientas."
+    }
+
+   ]
+ },
+ {
+   "code" : "sst_super",
+   "name": "Paquete SST Supervisor de 32 horas",
+   "include" : [
+     "Capítulo 33 de 8 horas",
+     "Prevención de caídas de 8 horas",
+     "Cursos optativos de 4 horas",
+     "Cursos prescritos de 8 horas",
+     "Soporte de 4 horas para usuarios de andamios y actualización"
+   ],
+   "length": 32,
+   "language": "INGLÉS",
+   "trainingRequirement": "Según la Ley Local 196, para continuar operando en la Ciudad de Nueva York, se requiere que algunos trabajadores y supervisores completen un número mínimo de horas de capacitación aprobada en seguridad del sitio. Este plan de estudios aprobado por el Departamento de Edificios de Nueva York es un curso prescrito (obligatorio) que cumple con uno de los requisitos para una persona que solicita una Tarjeta de Capacitación en Seguridad del Sitio (SST).",
+   "cost": 220
+ }
+
+]

@@ -1,0 +1,53 @@
+/* @import url(https://fonts.googleapis.com/css?family=Covered+By+Your+Grace);
+
+h1 {
+  text-align: center;
+  font-size: 300%;
+  font-family: 'Covered By Your Grace', cursive;
+  font-weight: 300;
+  text-shadow: 0 2px 1px black;
+} */
+
+.single-back{
+  background: url('../../assets/images/construction.png') no-repeat top center;
+  background-size: cover;
+  height: 450px;
+}
+
+.text-primary{
+  text-shadow: 2px 2px 4px #333232;
+  font-size: 4rem;
+}
+
+.single-title{
+  color: white !important;
+}
+
+@media only screen and (max-width : 576px){
+  .single-title{
+    font-size: 10vw;
+  }
+}
+
+.card.card-image {
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+.card {
+  -webkit-box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+}
+
+.card {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.rgba-stylish-strong {
+  background-color: rgba(62,69,81,0.7);
+}

@@ -1,0 +1,114 @@
+.carousel-multi-item .controls-top .btn-floating {
+  background: #4285f4;
+}
+
+a.waves-effect, a.waves-light {
+  display: inline-block;
+}
+
+.btn-floating {
+  position: relative;
+  z-index: 1;
+  display: inline-block;
+  padding: 0;
+  margin: 10px;
+  overflow: hidden;
+  vertical-align: middle;
+  cursor: pointer;
+  border-radius: 50%;
+  -webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18), 0 4px 15px 0 rgba(0,0,0,0.15);
+  box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18), 0 4px 15px 0 rgba(0,0,0,0.15);
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  width: 47px;
+  height: 47px;
+}
+
+.btn-floating i {
+  display: inline-block;
+  width: inherit;
+  color: #fff;
+  text-align: center;
+}
+
+.btn-floating i {
+  font-size: 1.25rem;
+  line-height: 47px;
+}
+
+.btn-floating i {
+  font-size: 1.25rem;
+  line-height: 47px;
+}
+
+.carousel .carousel-indicators li {
+  width: .625rem;
+  height: .625rem;
+  cursor: pointer;
+  border-radius: 50%;
+}
+
+.carousel .carousel-indicators li {
+  width: .625rem;
+  height: .625rem;
+  cursor: pointer;
+  border-radius: 50%;
+}
+
+.card.card-image {
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+.card {
+  font-weight: 400;
+  border: 0;
+  -webkit-box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+}
+
+.rgba-stylish-strong {
+  background-color: rgba(62,69,81,0.7);
+}
+
+.carousel-multi-item .carousel-inner .carousel-item.active, .carousel-multi-item .carousel-item-next, .carousel-multi-item .carousel-item-prev {
+  display: block;
+}
+
+@media (min-width: 768px){
+  .carousel-multi-item [class*="col-"] {
+    float: left;
+  }
+}
+
+.testimonial-carousel .testimonial {
+  margin-right: 23%;
+  margin-left: 23%;
+}
+
+.carousel-multi-item .carousel-indicators {
+  margin-bottom: -1em;
+}
+
+.carousel-multi-item .carousel-indicators li {
+  width: 1.25rem;
+  max-width: 1.25rem;
+  height: 1.25rem;
+  margin-bottom: -3.75rem;
+  background-color: #4285f4;
+}
+
+@media only screen and (max-width : 576px){
+  /* .carousel-multi-item .carousel-inner .carousel-item.active, .carousel-multi-item .carousel-item-next, .carousel-multi-item .carousel-item-prev {
+    display: inline;
+  }
+  .carousel-multi-item [class*="col-"] {
+    float: none;
+  } */
+  .testimonial-carousel .testimonial {
+    margin-right: 2%;
+    margin-left: 2%;
+  }
+  
+}

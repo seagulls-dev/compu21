@@ -1,0 +1,548 @@
+<div class="container-fluid" style="width: 80%;margin: 0 auto;">
+  <div class="row">
+    <h2 class="mx-auto"><span style="font-size: 36px;"><strong >{{faq?.title}}</strong></span>
+    </h2><br><br><br>
+  </div>
+  
+  <div class="row">
+    <div class="col-md-12 col-lg-12 mx-auto mb-5">
+    
+      <!--Accordion wrapper-->
+      <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
+
+        <!-- Accordion card -->
+        <div class="card border-top border-bottom-0 border-left border-right border-light">
+
+          <!-- Card header -->
+          <div class="card-header border-bottom border-light" role="tab" id="headingOne1">
+            <a data-toggle="collapse" data-parent="#accordionEx" href="#collapseOne1" aria-expanded="true"
+              aria-controls="collapseOne1">
+              <h5 class="black-text font-weight-normal mb-0" >
+                {{faq?.q1}} <i class="fas fa-angle-down rotate-icon"></i>
+              </h5>
+            </a>
+          </div>
+
+          <!-- Card body -->
+          <div id="collapseOne1" class="collapse show" role="tabpanel" aria-labelledby="headingOne1"
+            data-parent="#accordionEx">
+            <div class="card-body" >
+              {{faq?.a1}}
+            </div>
+          </div>
+
+        </div>
+        <!-- Accordion card -->
+
+        <!-- Accordion card -->
+        <div class="card border-bottom-0 border-left border-right border-light">
+
+          <!-- Card header -->
+          <div class="card-header border-bottom border-light" role="tab" id="headingTwo2">
+            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseTwo2"
+              aria-expanded="false" aria-controls="collapseTwo2">
+              <h5 class="black-text font-weight-normal mb-0" >
+                {{faq?.q2 }}
+                <i class="fas fa-angle-down rotate-icon"></i>
+              </h5>
+            </a>
+          </div>
+
+          <!-- Card body -->
+          <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2"
+            data-parent="#accordionEx">
+            <div class="card-body" >
+              {{faq?.a2}}
+              
+            </div>
+          </div>
+
+        </div>
+        <!-- Accordion card -->
+
+        <!-- Accordion card -->
+        <div class="card border-bottom-0 border-left border-right border-light">
+
+          <!-- Card header -->
+          <div class="card-header border-bottom border-light" role="tab" id="headingThree3">
+            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree3"
+              aria-expanded="false" aria-controls="collapseThree3">
+              <h5 class="black-text font-weight-normal mb-0" >
+                {{faq?.q3}}
+                <i class="fas fa-angle-down rotate-icon"></i>
+              </h5>
+            </a>
+          </div>
+
+          <!-- Card body -->
+          <div id="collapseThree3" class="collapse" role="tabpanel" aria-labelledby="headingThree3"
+            data-parent="#accordionEx">
+            <div class="card-body" >
+              {{faq?.a3}}
+              <ul>
+                <li >{{faq?.a31}}</li>
+                <li >{{faq?.a32}}
+                  <ul>
+                    <li >{{faq?.a33}}</li>
+                    <li >{{faq?.a34}}</li>
+                  </ul>
+                </li>
+              </ul>
+              {{faq?.a35}}
+            </div>
+          </div>
+
+        </div>
+        <!-- Accordion card -->
+        
+        <!-- Accordion card -->
+        <div class="card border-left border-right border-light">
+
+          <!-- Card header -->
+          <div class="card-header border-bottom border-light" role="tab" id="headingThree4">
+            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree4"
+              aria-expanded="false" aria-controls="collapseThree4">
+              <h5 class="black-text font-weight-normal mb-0" >
+                {{faq?.q4 }}
+                <i class="fas fa-angle-down rotate-icon"></i>
+              </h5>
+            </a>
+          </div>
+
+          <!-- Card body -->
+          <div id="collapseThree4" class="collapse" role="tabpanel" aria-labelledby="headingThree4"
+            data-parent="#accordionEx">
+            <div class="card-body" >
+              {{faq?.a41}}<br>
+              {{faq?.a42   }}
+            </div>
+          </div>
+
+        </div>
+        <!-- Accordion card -->
+
+        <!-- Accordion card -->
+        <div class="card border-left border-right border-light">
+
+          <!-- Card header -->
+          <div class="card-header border-bottom border-light" role="tab" id="headingThree5">
+            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree5"
+              aria-expanded="false" aria-controls="collapseThree5">
+              <h5 class="black-text font-weight-normal mb-0" >
+                {{faq?.q5 }}
+                <i class="fas fa-angle-down rotate-icon"></i>
+              </h5>
+            </a>
+          </div>
+
+          <!-- Card body -->
+          <div id="collapseThree5" class="collapse" role="tabpanel" aria-labelledby="headingThree5"
+            data-parent="#accordionEx">
+            <div class="card-body" >
+              {{faq?.a5}}
+            </div>
+          </div>
+
+        </div>
+        <!-- Accordion card -->
+
+        <!-- Accordion card -->
+        <div class="card border-left border-right border-light">
+
+          <!-- Card header -->
+          <div class="card-header border-bottom border-light" role="tab" id="headingThree6">
+            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree6"
+              aria-expanded="false" aria-controls="collapseThree6">
+              <h5 class="black-text font-weight-normal mb-0" >
+                {{faq?.q6}}
+                 <i class="fas fa-angle-down rotate-icon"></i>
+              </h5>
+            </a>
+          </div>
+
+          <!-- Card body -->
+          <div id="collapseThree6" class="collapse" role="tabpanel" aria-labelledby="headingThree6"
+            data-parent="#accordionEx">
+            <div class="card-body" >
+              {{faq?.a6}}
+            </div>
+          </div>
+
+        </div>
+        <!-- Accordion card -->
+
+        <!-- Accordion card -->
+        <div class="card border-left border-right border-light">
+
+          <!-- Card header -->
+          <div class="card-header border-bottom border-light" role="tab" id="headingThree7">
+            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree7"
+              aria-expanded="false" aria-controls="collapseThree7">
+              <h5 class="black-text font-weight-normal mb-0" >
+                {{faq?.q7}}
+                 <i class="fas fa-angle-down rotate-icon"></i>
+              </h5>
+            </a>
+          </div>
+
+          <!-- Card body -->
+          <div id="collapseThree7" class="collapse" role="tabpanel" aria-labelledby="headingThree7"
+            data-parent="#accordionEx">
+            <div class="card-body" >
+              {{faq?.a7}}
+            </div>
+          </div>
+
+        </div>
+        <!-- Accordion card -->
+
+
+        <!-- Accordion card -->
+        <div class="card border-left border-right border-light">
+
+          <!-- Card header -->
+          <div class="card-header border-bottom border-light" role="tab" id="headingThree8">
+            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree8"
+              aria-expanded="false" aria-controls="collapseThree8">
+              <h5 class="black-text font-weight-normal mb-0" >
+                {{faq?.q8}} <i class="fas fa-angle-down rotate-icon"></i>
+              </h5>
+            </a>
+          </div>
+
+          <!-- Card body -->
+          <div id="collapseThree8" class="collapse" role="tabpanel" aria-labelledby="headingThree8"
+            data-parent="#accordionEx">
+            <div class="card-body" >
+              {{faq?.a8}}
+            </div>
+          </div>
+
+        </div>
+        <!-- Accordion card -->
+
+        <!-- Accordion card -->
+        <div class="card border-left border-right border-light">
+
+          <!-- Card header -->
+          <div class="card-header border-bottom border-light" role="tab" id="headingThree9">
+            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree9"
+              aria-expanded="false" aria-controls="collapseThree9">
+              <h5 class="black-text font-weight-normal mb-0" >
+                {{faq?.q9}} <i class="fas fa-angle-down rotate-icon"></i>
+              </h5>
+            </a>
+          </div>
+
+          <!-- Card body -->
+          <div id="collapseThree9" class="collapse" role="tabpanel" aria-labelledby="headingThree9"
+            data-parent="#accordionEx">
+            <div class="card-body" >
+              {{faq?.a91}}<br>{{faq?.a92}}
+            </div>
+          </div>
+
+        </div>
+        <!-- Accordion card -->
+
+        <!-- Accordion card -->
+        <div class="card border-left border-right border-light">
+
+          <!-- Card header -->
+          <div class="card-header border-bottom border-light" role="tab" id="headingThree10">
+            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree10"
+              aria-expanded="false" aria-controls="collapseThree10">
+              <h5 class="black-text font-weight-normal mb-0" >
+                {{faq?.q10}}
+                 <i class="fas fa-angle-down rotate-icon"></i>
+              </h5>
+            </a>
+          </div>
+
+          <!-- Card body -->
+          <div id="collapseThree10" class="collapse" role="tabpanel" aria-labelledby="headingThree10"
+            data-parent="#accordionEx">
+            <div class="card-body" >
+              {{faq?.a10}}<br><br>
+              <div class="table-responsive">
+
+                <table class="table table-bordered table-sm table-hover">
+                  <thead class="thead-dark">
+                    <tr>
+                      <th scope="col">Safety Training Required</th>
+                      <th scope="col">Safety Training Not Required</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <th scope="row">Construction Workers </th>
+                      <td>Building Site Owners</td>
+                    </tr>
+      
+                    <tr>
+                      <th scope="row">Demolition Workers  </th>
+                      <td>Project Managers</td>
+                    </tr>
+      
+                    <tr>
+                      <th scope="row">Construction Superintendents (CS)   </th>
+                      <td>Professional Engineer (PE)</td>
+                    </tr>
+      
+                    <tr>
+                      <th scope="row">Site Safety Coordinators (SSC)   </th>
+                      <td>Developers</td>
+                    </tr>
+      
+                    <tr>
+                      <th scope="row">Concrete Safety Managers (CSM)   </th>
+                      <td>Delivery Persons</td>
+                    </tr>
+      
+                    <tr>
+                      <th scope="row">Competent Persons      </th>
+                      <td>Construction Managers</td>
+                    </tr>
+      
+                    <tr>
+                      <th scope="row">Journeypersons</th>
+                      <td>Flag Persons</td>
+                    </tr>
+      
+                    <tr>
+                      <th scope="row">Forepersons</th>
+                      <td>General Contractors</td>
+                    </tr>
+
+                    <tr>
+                      <th scope="row">Employees of DOB Licensees or Registrants</th>
+                      <td>DOB Licensees and Registrants that are not CS, SSC, SSM, or CSM</td>
+                    </tr>
+
+                    <tr>
+                      <th scope="row"></th>
+                      <td>Concrete Testing Laboratories/Concrete Inspectors</td>
+                    </tr>
+
+                    <tr>
+                      <th scope="row"></th>
+                      <td>Filing Representatives</td>
+                    </tr>
+
+                    <tr>
+                      <th scope="row"></th>
+                      <td>Security Officers</td>
+                    </tr>
+
+                    <tr>
+                      <th scope="row"></th>
+                      <td>Special Inspectors</td>
+                    </tr>
+
+                    <tr>
+                      <th scope="row"></th>
+                      <td>Service Technicians</td>
+                    </tr>
+
+                    <tr>
+                      <th scope="row"></th>
+                      <td>Consultants</td>
+                    </tr>
+      
+      
+      
+                  </tbody>
+                </table>
+              
+              </div>
+              <br>
+            </div>
+          </div>
+
+        </div>
+        <!-- Accordion card -->
+
+        <!-- Accordion card -->
+        <div class="card border-left border-right border-light">
+
+          <!-- Card header -->
+          <div class="card-header border-bottom border-light" role="tab" id="headingThree11">
+            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree11"
+              aria-expanded="false" aria-controls="collapseThree11">
+              <h5 class="black-text font-weight-normal mb-0" >
+                {{faq?.q11}} <i class="fas fa-angle-down rotate-icon"></i>
+              </h5>
+            </a>
+          </div>
+
+          <!-- Card body -->
+          <div id="collapseThree11" class="collapse" role="tabpanel" aria-labelledby="headingThree11"
+            data-parent="#accordionEx">
+            <div class="card-body" >
+              {{faq?.a11}}
+            </div>
+          </div>
+
+        </div>
+        <!-- Accordion card -->
+
+        <!-- Accordion card -->
+        <div class="card border-left border-right border-light">
+
+          <!-- Card header -->
+          <div class="card-header border-bottom border-light" role="tab" id="headingThree12">
+            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree12"
+              aria-expanded="false" aria-controls="collapseThree12">
+              <h5 class="black-text font-weight-normal mb-0" >
+                {{faq?.q12}} <i class="fas fa-angle-down rotate-icon"></i>
+              </h5>
+            </a>
+          </div>
+
+          <!-- Card body -->
+          <div id="collapseThree12" class="collapse" role="tabpanel" aria-labelledby="headingThree12"
+            data-parent="#accordionEx">
+            <div class="card-body" >
+              {{faq?.a12}}
+            </div>
+          </div>
+
+        </div>
+        <!-- Accordion card -->
+
+        <!-- Accordion card -->
+        <div class="card border-left border-right border-light">
+
+          <!-- Card header -->
+          <div class="card-header border-bottom border-light" role="tab" id="headingThree13">
+            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree13"
+              aria-expanded="false" aria-controls="collapseThree13">
+              <h5 class="black-text font-weight-normal mb-0" >
+                {{faq?.q13}} <i class="fas fa-angle-down rotate-icon"></i>
+              </h5>
+            </a>
+          </div>
+
+          <!-- Card body -->
+          <div id="collapseThree13" class="collapse" role="tabpanel" aria-labelledby="headingThree13"
+            data-parent="#accordionEx">
+            <div class="card-body" >
+              {{faq?.a13}}
+            </div>
+          </div>
+
+        </div>
+        <!-- Accordion card -->
+
+        <!-- Accordion card -->
+        <div class="card border-left border-right border-light">
+
+          <!-- Card header -->
+          <div class="card-header border-bottom border-light" role="tab" id="headingThree14">
+            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree14"
+              aria-expanded="false" aria-controls="collapseThree14">
+              <h5 class="black-text font-weight-normal mb-0" >
+                {{faq?.q14}} <i class="fas fa-angle-down rotate-icon"></i>
+              </h5>
+            </a>
+          </div>
+
+          <!-- Card body -->
+          <div id="collapseThree14" class="collapse" role="tabpanel" aria-labelledby="headingThree14"
+            data-parent="#accordionEx">
+            <div class="card-body" >
+              {{faq?.a14}}
+              <ul>
+                <li >{{faq?.a14_1}}</li>
+                <li >{{faq?.a14_2}}</li>
+                <li >{{faq?.a14_3}}</li>
+                <li >{{faq?.a14_4}}</li>
+              </ul>
+            </div>
+          </div>
+
+        </div>
+        <!-- Accordion card -->
+
+        <!-- Accordion card -->
+        <div class="card border-left border-right border-light">
+
+          <!-- Card header -->
+          <div class="card-header border-bottom border-light" role="tab" id="headingThree15">
+            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree15"
+              aria-expanded="false" aria-controls="collapseThree15">
+              <h5 class="black-text font-weight-normal mb-0" >
+                {{faq?.q15}} <i class="fas fa-angle-down rotate-icon"></i>
+              </h5>
+            </a>
+          </div>
+
+          <!-- Card body -->
+          <div id="collapseThree15" class="collapse" role="tabpanel" aria-labelledby="headingThree15"
+            data-parent="#accordionEx">
+            <div class="card-body" >
+              {{faq?.a15}}
+            </div>
+          </div>
+
+        </div>
+        <!-- Accordion card -->
+
+        <!-- Accordion card -->
+        <div class="card border-left border-right border-light">
+
+          <!-- Card header -->
+          <div class="card-header border-bottom border-light" role="tab" id="headingThree16">
+            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree16"
+              aria-expanded="false" aria-controls="collapseThree16">
+              <h5 class="black-text font-weight-normal mb-0" >
+                {{faq?.q16}} <i class="fas fa-angle-down rotate-icon"></i>
+              </h5>
+            </a>
+          </div>
+
+          <!-- Card body -->
+          <div id="collapseThree16" class="collapse" role="tabpanel" aria-labelledby="headingThree16"
+            data-parent="#accordionEx">
+            <div class="card-body" >
+              {{faq?.a16}}
+            </div>
+          </div>
+
+        </div>
+        <!-- Accordion card -->
+
+        <!-- Accordion card -->
+        <div class="card border-left border-right border-light">
+
+          <!-- Card header -->
+          <div class="card-header border-bottom border-light" role="tab" id="headingThree17">
+            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree17"
+              aria-expanded="false" aria-controls="collapseThree17">
+              <h5 class="black-text font-weight-normal mb-0" >
+                {{faq?.q17}} <i class="fas fa-angle-down rotate-icon"></i>
+              </h5>
+            </a>
+          </div>
+
+          <!-- Card body -->
+          <div id="collapseThree17" class="collapse" role="tabpanel" aria-labelledby="headingThree17"
+            data-parent="#accordionEx">
+            <div class="card-body" >
+              {{faq?.a17}}
+            </div>
+          </div>
+
+        </div>
+        <!-- Accordion card -->
+
+
+
+      </div>
+      <!-- Accordion wrapper -->
+      
+    </div>
+  </div>
+
+
+</div>

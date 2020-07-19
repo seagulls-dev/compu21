@@ -1,0 +1,12 @@
+/* p {
+  margin: 2%;
+} */
+
+.md-accordion .card .fa-angle-down {
+  float: right;
+}
+
+.md-accordion .card .card-header a:not(.collapsed) .rotate-icon {
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}

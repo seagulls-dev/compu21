@@ -1,0 +1,13 @@
+[
+  {
+    "name" : "AUTOCAD",
+    "description" : "AutoCAD is a commercial computer-aided design (CAD) and drafting software application. This course is designed for construction, building development, repairs/alterations and other fields. Construction industry workers with supervisory, oversight, and safety responsibilities can’t afford to be caught off-guard—especially when more lives are at stake.",
+    "price" : "399"
+  },
+  {
+    "name" : "REVIT 3D",
+    "description" : "Autodesk Revit is building information modelling software for architects, landscape architects, structural engineers, MEP engineers, designers and contractors.",
+    "price" : "599"
+  }
+
+]

@@ -1,0 +1,280 @@
+
+{
+  "site_safety_manager" : [
+    {
+      "code" : "SAF-102",
+      "name" : "40-Hour Site Safety Manager"
+    },
+    {
+      "code" : "SAF-201",
+      "name" : "8-Hour Site Safety Manager Refresher"
+    },
+    {
+      "code" : "SAF-103",
+      "name" : "8-Hour Site Safety Coordinator"
+    }
+  ],
+  "scaffold_training" : [
+    {
+      "code" : "SST-306",
+      "name" : "4-Hour Supported Scaffold User & Refresher"
+    }
+  ],
+  "site_safety_training" : [
+    {
+      "title" : "10 Hour Worker SST Bundle",
+      "content" : [
+        {
+          "code" : "SST-307",
+          "name" : "8 Hour Fall Prevention"
+        },
+        {
+          "code" : "SST-305",
+          "name" : "2-Hour Drug and Alcohol Awareness"
+        }
+      ]
+    },
+    {
+      "title" : "40 Hour Worker SST Card Package",
+      "content" : [
+        {
+          "code" : "OSHA30",
+          "name" : "OSHA 30"
+        },
+        {
+          "code" : "SST-307",
+          "name" : "8 Hour Fall Prevention"
+        },
+        {
+          "code" : "SST-305",
+          "name" : "2-Hour Drug and Alcohol Awareness"
+        }
+      ]
+    },
+    {
+      "title" : "32 Hour Supervisor SST Bundle",
+      "content" : [
+        {
+          "code" : "SST-307",
+          "name" : "8 Hour Fall Prevention"
+        },
+        {
+          "code" : "SST-302",
+          "name" : "2 Hour Drug and Alcohol Awareness"
+        },
+        {
+          "code" : "SAF-201",
+          "name" : "8 Hour Chapter 33 (SSM Renewal)"
+        },
+        {
+          "code" : "SST-306",
+          "name" : "4 Hour Supported Scaffold User & Refresher"
+        },
+        {
+          "code" : "SST-301",
+          "name" : "2 Hour Site Safety Plan"
+        },
+        {
+          "code" : "SST-304",
+          "name" : "2 Hour Tool Box Talks"
+        },
+        {
+          "code" : "SST-303",
+          "name" : "2 Hour Pre-Task Safety Meeting"
+        },
+        {
+          "code" : "sst_general",
+          "name" : "2 Hour General Electives"
+        },
+        {
+          "code" : "sst_special",
+          "name" : " 2 Hour Specialized Electives"
+        }
+      ]
+    },
+    {
+      "title" : "62 Hour Supervisor SST Card Package",
+      "content" : [
+        {
+          "code" : "OSHA30",
+          "name" : "OSHA 30 Hour Class"
+        },
+        {
+          "code" : "sst_super",
+          "name" : "32 Hour SST Supervisor Bundle"
+        }
+      ]
+    }
+  ],
+  "osha_training" : [
+    {
+      "title" : "OSHA-30",
+      "content" : [
+        {
+          "code" : "OSHA30",
+          "name" : "30-hour OSHA"
+        }
+      ]
+    }
+  ],
+  "other_course" : [
+    {
+      "code" : "home_improve",
+      "name" : "Home Improvement Contractor License Training"
+    },
+    {
+      "code" : "autocad",
+      "name" : "AutoCAD"
+    },
+    {
+      "code" : "revit",
+      "name" : "Revit 3D"
+    }
+  ],
+  "prescribed_course" : [
+    {
+      "code" : "SST-301",
+      "name" : "2-Hour Site Safety Plan (SSP)"
+    },
+    {
+      "code" : "SST-302",
+      "name" : "2-Hour Drug and Alcohol Awareness"
+    },
+    {
+      "code" : "SST-303",
+      "name" : "2-Hour Pre-Task Meeting"
+    },
+    {
+      "code" : "SST-304",
+      "name" : "2-Hour 'Tool Box' Talks"
+    },
+    {
+      "code" : "SST-306",
+      "name" : "4-Hour Supported Scaffold User and Refresher"
+    },
+    {
+      "code" : "SST-307",
+      "name" : "8-Hour Fall Prevention"
+    },
+    {
+      "code" : "SAF-201",
+      "name" : "8-Hour Chapter 33 (Site Safety Manager Renewal)"
+    },
+    {
+      "code" : "SST-302",
+      "name" : "4-Hour Fall Prevention"
+    }
+  ],
+  "sst_general" : [
+    {
+      "code" : "sst_general",
+      "name" : "1-Hour Electrocution Prevention"
+    },
+    {
+      "code" : "sst_general",
+      "name" : "1-Hour Fire Protection and Prevention"
+    },
+    {
+      "code" : "sst_general",
+      "name" : "1-Hour First Aid and CPR"
+    },
+    {
+      "code" : "sst_general",
+      "name" : "1-Hour Handling Heavy Materials and Proper Lifting Techniques"
+    },
+    {
+      "code" : "sst_general",
+      "name" : "1-Hour Hoisting and Rigging"
+    },
+    {
+      "code" : "sst_general",
+      "name" : "1-Hour Materials Handling, Storage, Use, and Disposal"
+    },
+    {
+      "code" : "sst_general",
+      "name" : "1-Hour Protection from Sun Exposure"
+    },
+    {
+      "code" : "sst_general",
+      "name" : "1-Hour Repetitive Motion Injuries"
+    },
+    {
+      "code" : "sst_general",
+      "name" : "1-Hour Stairways and Ladders"
+    },
+    {
+      "code" : "sst_general",
+      "name" : "1-Hour Tools – Hand and Power"
+    }
+  ],
+  "sst_special" : [
+    {
+      "code" : "sst_special",
+      "name" : "1-Hour Asbestos / Lead Awareness"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "1-Hour Confined Space Entry"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "1-Hour Concrete and Masonry Construction"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "1-Hour Cranes, Derricks, Hoists, Elevators, and Conveyors"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "1-Hour Demolition Safety"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "1-Hour Ergonomics"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "1-Hour excavations"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "1-Hour Flag Person"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "1-Hour Job Hazard Analysis"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "1-Hour Personal Lifts/Aerial Lifts/Scissors Lifts Safety"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "1-Hour Motor Vehicles, Mechanized Equipment and Marine Operations;Rollover Protective Structures and Overhead Protection;and Signs, Signals and Barricades"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "1-Hour Risk Assessment and Accident Investigation"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "1-Hour Scaffolds - Suspended"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "1-Hour Steel Erection"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "1-Hour Health and Safety Programs in Construction"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "1-Hour Welding and Cutting"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "2.50-Hour Foundations for Safety Leadership"
+    }
+  ]
+}

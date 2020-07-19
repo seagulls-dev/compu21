@@ -1,0 +1,123 @@
+<div class="container-fluid sticky-top">
+  <div class="row">
+    <div class="col-md-12 p-0">
+      <nav class="navbar navbar-expand-xl navbar-light scrolling-navbar fixed-top white">
+        <button class="navbar-toggler" type="button" (click)="isMenuCollapsed = !isMenuCollapsed">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent" [ngbCollapse]="isMenuCollapsed">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }" (click)="isMenuCollapsed = true">{{menu?.home}}</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" [routerLink]="['/safety','Online-Classes']" routerLinkActive="active"  data-toggle="tooltip" title="Do it on your own time"  (click)="isMenuCollapsed = true">{{menu?.online_classes}}</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle dropbtn" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >
+                {{menu?.all_classes}}
+              </a>
+              <div class="dropdown-menu dropdown-primary dropdown-content" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" routerLink="/safety/All-Classes" data-toggle="tooltip" title="Do it on your all classes"  routerLinkActive="active-sub" (click)="isMenuCollapsed = true">{{menu?.all_classes}}</a>
+                <a class="dropdown-item" routerLink="/safety/Online-Classes" data-toggle="tooltip" title="Do it on your own time"  routerLinkActive="active-sub" (click)="isMenuCollapsed = true">{{menu?.online_classes}}</a>
+                <a class="dropdown-item" routerLink="/safety/Virtual-Classes" data-toggle="tooltip" title="Instructor via Zoom"  routerLinkActive="active-sub" (click)="isMenuCollapsed = true">{{menu?.virtual_classes}}</a>
+                <li class="dropdown-submenu">
+                  <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" id="submenu" aria-expanded="false"  title="If you need us to schedule a class for your group, give us a call" (click)="isMenuCollapsed = true" >
+                    {{menu?.training}} <span class="caret"></span>
+                  </a>
+                  <ul class="dropdown-menu dropdown-primary" aria-labelledby="submenu">
+                    <li>
+                      <a routerLink="site-training/all-on-site-training" routerLinkActive="active-sub" (click)="isMenuCollapsed = true"  class="dropdown-item" >{{menu?.all_train}}
+                      </a>
+                    </li>
+                    <li>
+                      <a routerLink="site-training/sst-card"  class="dropdown-item" routerLinkActive="active-sub" (click)="isMenuCollapsed = true" >{{menu?.sst}}
+                      </a>
+                    </li>
+                    <li>
+                      <a routerLink="site-training/site-safety"  class="dropdown-item" routerLinkActive="active-sub" (click)="isMenuCollapsed = true" >{{menu?.safety}}
+                      </a>
+                    </li>
+                    <li>
+                      <a routerLink="site-training/scaffolding"  class="dropdown-item" routerLinkActive="active-sub" (click)="isMenuCollapsed = true" >{{menu?.scaff}}
+                      </a>
+                    </li>
+                    <li>
+                      <a routerLink="site-training/osha"  class="dropdown-item" routerLinkActive="active-sub" (click)="isMenuCollapsed = true">
+                        OSHA 30
+                      </a>
+                    </li>
+                    <li>
+                      <a routerLink="site-training/autocad-revit"  class="dropdown-item" routerLinkActive="active-sub" (click)="isMenuCollapsed = true">
+                        Autocad / Revit
+                      </a>
+                    </li>
+                    <li>
+                      <a routerLink="site-training/flagging"  class="dropdown-item" routerLinkActive="active-sub" (click)="isMenuCollapsed = true" >{{menu?.flag}}
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+                <a class="dropdown-item" routerLink="/safety/Schedules"  routerLinkActive="active-sub">{{menu?.schedule}}</a>
+              </div>
+            </li>
+            <!-- <li class="nav-item">
+              <a class="nav-link" href="#">SST Card Verify</a>
+            </li> -->
+            <li class="nav-item">
+              <a class="nav-link" routerLink="/safety/About-us"  routerLinkActive="active" (click)="isMenuCollapsed = true">{{menu?.about_us}}</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" routerLink="/safety/Contact-us"  routerLinkActive="active" (click)="isMenuCollapsed = true">{{menu?.contact_us}}</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" routerLink="/safety/FAQ" routerLinkActive="active" (click)="isMenuCollapsed = true">FAQ</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle dropbtn" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >
+                {{menu?.translate}}
+              </a>
+              <div class="dropdown-menu dropdown-primary dropdown-content" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" (click)="useLanguage('en');isMenuCollapsed = true" >{{menu?.english}}</a>
+                  <a class="dropdown-item" (click)="useLanguage('es');isMenuCollapsed = true" >{{menu?.spanish}}</a>
+                
+              </div>
+            </li>
+          </ul>
+          <form class="form-inline my-2 my-lg-0">
+            <!-- <ul class="navbar-nav mr-auto">
+              <li class="nav-item">
+                <a class="nav-link" routerLink="/" routerLinkActive="active" >Cart</a>
+              </li>
+            </ul> -->
+            <!-- <ng-template [ngIf]="userLogined">
+              <button class="btn btn-light mr-1 my-2 my-sm-0" routerLink="/myCart" type="button">Cart</button>
+            </ng-template> -->
+            <a routerLink="/safety/cards">
+              <button class="btn btn-warning btn-rounded mr-1 my-2 my-sm-0" type="button" >
+                {{menu?.verify}}
+              </button>
+            </a>
+            <a routerLink="/safety/carts">
+              <button class="btn btn-info mr-1 my-2 my-sm-0" type="button" >
+                <i class="fas fa-shopping-cart"></i>&nbsp;{{menu?.cart}}
+              </button>
+            </a>
+            <a routerLink="/safety/login" class="btn-login">
+              <button class="btn btn-info my-2 my-sm-0" (click)="userPage()" type="button" >
+                <i class="fas fa-user"></i>&nbsp;{{userLogined? "My Account" : menu?.login}}
+              </button>
+              <br>
+              <a data-toggle="modal" data-target="#modalRegisterForm" style="text-decoration: underline;padding-left: 20px;" >
+                {{menu?.register}}
+              </a>
+            </a>
+            
+            
+          </form>
+        </div>
+      </nav>
+    </div>
+  </div>
+</div>
