@@ -151,7 +151,9 @@
 		"virtual_classes": "Clases virtuales",
 		"login": "Iniciar sesión",
 		"signup": "Regístrate",
-		"contact_us" : "Contáctenos"
+		"contact_us" : "Contáctenos",
+		"password": "Contraseña",
+		"username": "Nombre de usuario"
 	},
 	"home": {
 		"content1": "Esta nueva Ley Local afecta gran parte de la capacitación requerida para los trabajadores de la construcción en la mayoría de los sitios de trabajo en la ciudad de Nueva York. Además de las certificaciones de capacitación, también afecta la documentación de seguridad diaria de las tareas en el lugar de trabajo, así como la orientación anual de los trabajadores.",

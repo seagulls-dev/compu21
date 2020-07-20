@@ -151,7 +151,9 @@
 		"virtual_classes": "Virtual Classes",
 		"login": "Log in",
 		"signup": "Sign up",
-		"contact_us" : "Contact Us"
+		"contact_us" : "Contact Us",
+		"username" : "User Name",
+		"password" : "Password"
 	},
 	"home": {
 		"content1": "This new Local Law affects much of the training required for construction workers on most jobsites in New  York City. In addition to training certifications it also affects the daily safety documentation of jobsite tasks, as well as the annual orientation of workers.",
