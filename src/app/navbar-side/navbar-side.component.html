@@ -1,0 +1,66 @@
+<div class="border rounded">
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark pl-0 pr-0">  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto flex-column"><a class="nav-link m-0" data-toggle="collapse" href="#SST"><strong><h4 class="text-white">SST Course<span class="align-bottom material-icons">keyboard_arrow_down</span></h4></strong></a>
+        <div class="collapse show" id="SST" >
+          <li class="nav-item"*ngFor="let courseName of allCourseName.SST">
+            <div *ngFor="let course of allCourse">
+              <div *ngIf="course.name==courseName">
+                <a class="nav-link" [routerLink]="['/course-page',course.code]" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">{{courseName}}</a>
+              </div>
+            </div>
+          </li>
+      </div>
+      </ul>
+    </div>
+  </nav>
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark pl-0 pr-0 mt-1">  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto flex-column"><a class="nav-link m-0" data-toggle="collapse" href="#SiteSafety"><strong><h4 class="text-white">Site Safety<span class="align-bottom material-icons">keyboard_arrow_down</span></h4></strong></a>
+        <div class="collapse show" id="SiteSafety" >
+          <li class="nav-item"*ngFor="let courseName of allCourseName.SiteSafety">
+            <div *ngFor="let course of allCourse">
+              <div *ngIf="course.name==courseName">
+                <a class="nav-link" [routerLink]="['/course-page',course.code]" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">{{courseName}}</a>
+              </div>
+            </div>
+          </li>
+      </div>
+      </ul>
+    </div>
+  </nav>
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark pl-0 pr-0 mt-1">  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto flex-column"><a class="nav-link m-0" data-toggle="collapse" href="#Scaffold"><strong><h4 class="text-white">Scafolding<span class="align-bottom material-icons">keyboard_arrow_down</span></h4></strong></a>
+        <div class="collapse show" id="Scaffold" >
+          <li class="nav-item"*ngFor="let courseName of allCourseName.Scaffold">
+            <div *ngFor="let course of allCourse">
+              <div *ngIf="course.name==courseName">
+                <a class="nav-link" [routerLink]="['/course-page',course.code]" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">{{courseName}}</a>
+              </div>
+            </div>
+          </li>
+      </div>
+      </ul>
+    </div>
+  </nav>
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark pl-0 pr-0 mt-1">  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto flex-column"><a class="nav-link m-0" data-toggle="collapse" href="#Other"><strong><h4 class="text-white">Other<span class="align-bottom material-icons">keyboard_arrow_down</span></h4></strong></a>
+        <div class="collapse show" id="Other" >
+          <li class="nav-item"*ngFor="let courseName of allCourseName.Other">
+            <div *ngFor="let course of allCourse">
+              <div *ngIf="course.name==courseName">
+                <a class="nav-link" [routerLink]="['/course-page',course.code]" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">{{courseName}}</a>
+              </div>
+            </div>
+          </li>
+      </div>
+      </ul>
+    </div>
+  </nav>
+</div>

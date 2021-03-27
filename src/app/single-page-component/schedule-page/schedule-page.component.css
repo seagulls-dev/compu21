@@ -1,0 +1,18 @@
+p{
+  margin: 0%;
+}
+
+h4{
+    font-weight: 400;
+}
+
+th{
+  vertical-align: middle;
+  text-align: center;
+}
+
+.contact{
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-decoration: underline;
+}

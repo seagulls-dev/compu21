@@ -1,0 +1,13 @@
+[
+  {
+    "name" : "AUTOCAD",
+    "description" : "AutoCAD es una aplicación comercial de diseño asistido por computadora (CAD) y software de dibujo. Este curso está diseñado para construcción, desarrollo de edificios, reparaciones / alteraciones y otros campos. Los trabajadores de la industria de la construcción con responsabilidades de supervisión, supervisión y seguridad no pueden darse el lujo de ser tomados por sorpresa, especialmente cuando hay más vidas en juego.",
+    "price" : "399"
+  },
+  {
+    "name" : "REVIT 3D",
+    "description" : "Autodesk Revit está construyendo software de modelado de información para arquitectos, arquitectos paisajistas, ingenieros estructurales, ingenieros MEP, diseñadores y contratistas.",
+    "price" : "599"
+  }
+
+]

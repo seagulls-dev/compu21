@@ -1,0 +1,23 @@
+.img-fluid{
+  margin: 0 auto;
+}
+
+th{
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+
+table td{
+  font-size: 1.1rem;
+}
+
+ul{
+  list-style: none;
+}
+
+table{
+  border-spacing: 0 20px;
+  border-collapse: separate;
+}
+

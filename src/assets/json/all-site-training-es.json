@@ -1,0 +1,280 @@
+
+{
+  "site_safety_manager" : [
+    {
+      "code" : "SAF-102",
+      "name" : "Gerente de seguridad del sitio de 40 horas"
+    },
+    {
+      "code" : "SAF-201",
+      "name" : "Actualización del gerente de seguridad del sitio de 8 horas"
+    },
+    {
+      "code" : "SAF-103",
+      "name" : "Coordinador de seguridad del sitio de 8 horas"
+    }
+  ],
+  "scaffold_training" : [
+    {
+      "code" : "SST-306",
+      "name" : "Usuario de andamio y actualización de 4 horas"
+    }
+  ],
+  "site_safety_training" : [
+    {
+      "title" : "Paquete de 10 horas para trabajadores SST",
+      "content" : [
+        {
+          "code" : "SST-307",
+          "name" : "Prevención de caídas de 8 horas"
+        },
+        {
+          "code" : "SST-305",
+          "name" : "Conciencia de 2 horas sobre drogas y alcohol"
+        }
+      ]
+    },
+    {
+      "title" : "Paquete de tarjeta SST de 40 horas para trabajadores",
+      "content" : [
+        {
+          "code" : "OSHA30",
+          "name" : "OSHA 30"
+        },
+        {
+          "code" : "SST-307",
+          "name" : "Prevención de caídas de 8 horas"
+        },
+        {
+          "code" : "SST-305",
+          "name" : "Conciencia de 2 horas sobre drogas y alcohol"
+        }
+      ]
+    },
+    {
+      "title" : "Paquete de Supervisor SST de 32 horas",
+      "content" : [
+        {
+          "code" : "SST-307",
+          "name" : "Prevención de caídas de 8 horas"
+        },
+        {
+          "code" : "SST-302",
+          "name" : "Conciencia de 2 horas sobre drogas y alcohol"
+        },
+        {
+          "code" : "SAF-201",
+          "name" : "Capítulo 33 de 8 horas (renovación de SSM)"
+        },
+        {
+          "code" : "SST-306",
+          "name" : "Usuario de andamio y actualización de 4 horas"
+        },
+        {
+          "code" : "SST-301",
+          "name" : "Plan de seguridad del sitio de 2 horas"
+        },
+        {
+          "code" : "SST-304",
+          "name" : "Charlas de 2 horas sobre la caja de herramientas"
+        },
+        {
+          "code" : "SST-303",
+          "name" : "Reunión de seguridad previa a la tarea de 2 horas"
+        },
+        {
+          "code" : "sst_general",
+          "name" : "Electivas generales de 2 horas"
+        },
+        {
+          "code" : "sst_special",
+          "name" : "Electivas especializadas de 2 horas"
+        }
+      ]
+    },
+    {
+      "title" : "Paquete de tarjeta Supervisor 62 horas SST",
+      "content" : [
+        {
+          "code" : "OSHA30",
+          "name" : "Clase de 30 horas de OSHA"
+        },
+        {
+          "code" : "sst_super",
+          "name" : "Paquete de Supervisor SST de 32 horas"
+        }
+      ]
+    }
+  ],
+  "osha_training" : [
+    {
+      "title" : "OSHA-30",
+      "content" : [
+        {
+          "code" : "OSHA30",
+          "name" : "OSHA de 30 horas"
+        }
+      ]
+    }
+  ],
+  "other_course" : [
+    {
+      "code" : "home_improve",
+      "name" : "Capacitación de licencia de contratista de mejoras para el hogar"
+    },
+    {
+      "code" : "autocad",
+      "name" : "AutoCAD"
+    },
+    {
+      "code" : "revit",
+      "name" : "Revit 3D"
+    }
+  ],
+  "prescribed_course" : [
+    {
+      "code" : "SST-301",
+      "name" : "Plan de seguridad del sitio (SSP) de 2 horas"
+    },
+    {
+      "code" : "SST-302",
+      "name" : "Conciencia de 2 horas sobre drogas y alcohol"
+    },
+    {
+      "code" : "SST-303",
+      "name" : "Reunión previa a la tarea de 2 horas"
+    },
+    {
+      "code" : "SST-304",
+      "name" : "Charlas de 'Caja de herramientas' de 2 horas"
+    },
+    {
+      "code" : "SST-306",
+      "name" : "Usuario de andamio y actualización de 4 horas"
+    },
+    {
+      "code" : "SST-307",
+      "name" : "Prevención de caídas de 8 horas"
+    },
+    {
+      "code" : "SAF-201",
+      "name" : "Capítulo 33 de 8 horas (renovación del administrador de seguridad del sitio)"
+    },
+    {
+      "code" : "SST-302",
+      "name" : "Prevención de caídas de 4 horas"
+    }
+  ],
+  "sst_general" : [
+    {
+      "code" : "sst_general",
+      "name" : "Prevención de electrocución de 1 hora"
+    },
+    {
+      "code" : "sst_general",
+      "name" : "Protección contra incendios y prevención de 1 hora"
+    },
+    {
+      "code" : "sst_general",
+      "name" : "1 hora de primeros auxilios y RCP"
+    },
+    {
+      "code" : "sst_general",
+      "name" : "Manejo de 1 hora de materiales pesados y técnicas de elevación adecuadas"
+    },
+    {
+      "code" : "sst_general",
+      "name" : "Elevación y aparejo de 1 hora"
+    },
+    {
+      "code" : "sst_general",
+      "name" : "Manejo de materiales, almacenamiento, uso y eliminación de 1 hora"
+    },
+    {
+      "code" : "sst_general",
+      "name" : "Protección de 1 hora contra la exposición al sol"
+    },
+    {
+      "code" : "sst_general",
+      "name" : "Lesiones por movimiento repetitivo de 1 hora"
+    },
+    {
+      "code" : "sst_general",
+      "name" : "Escaleras y escaleras de 1 hora"
+    },
+    {
+      "code" : "sst_general",
+      "name" : "Herramientas de 1 hora: mano y potencia"
+    }
+  ],
+  "sst_special" : [
+    {
+      "code" : "sst_special",
+      "name" : "Conciencia de 1 hora sobre el asbesto / plomo"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "Entrada de espacio confinado de 1 hora"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "Construcción de hormigón y mampostería de 1 hora"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "Grúas, torres de perforación, montacargas, elevadores y transportadores de 1 hora"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "Seguridad de demolición de 1 hora"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "Ergonomía de 1 hora"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "Excavaciones de 1 hora"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "Persona de bandera de 1 hora"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "Análisis de riesgos laborales de 1 hora"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "Ascensores personales de 1 hora / elevadores aéreos / elevadores de tijera Seguridad"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "Vehículos motorizados de 1 hora, equipos mecanizados y operaciones marinas; estructuras de protección antivuelco y protección aérea; y señales, señales y barricadas"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "1 hora de evaluación de riesgos e investigación de accidentes"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "Andamios de 1 hora - suspendidos"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "Erección de acero de 1 hora"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "Programas de salud y seguridad de 1 hora en construcción"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "1 hora de soldadura y corte"
+    },
+    {
+      "code" : "sst_special",
+      "name" : "Fundamentos de 2.50 horas para el liderazgo en seguridad"
+    }
+  ]
+}

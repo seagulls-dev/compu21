@@ -1,0 +1,62 @@
+.price h4{
+  text-decoration: line-through;
+}
+
+.pricing-card{
+  min-height: 400px;
+}
+
+.card-body h5{
+  min-height: 120px;
+}
+
+.show-check{
+  text-decoration: underline;
+}
+
+.profile > div{
+  display: none;
+  position: relative;
+}
+
+.profile > div{
+  position: absolute;
+  z-index: 99;
+}
+
+.profile:hover > div{
+  display: block;
+}
+
+.mf-portfolio-page {
+  margin-bottom: 30px;
+  position: relative;
+}
+
+
+.rgba-black-strong, .rgba-black-strong:after {
+  height: inherit;
+}
+
+a.mf-portfolio-image-container2 {
+  display: block;
+  background: url('../../../assets/images/all-online3.jpg') no-repeat center center;
+  background-size: 110%;
+  transition: all 0.3s ease-in 0s;
+}
+a.mf-portfolio-image-container2:hover {
+  background-size: 130%;
+}
+
+@media only screen and (min-width: 576px){
+  .modal-dialog {
+    max-width: 800px;
+  }
+  
+}
+
+@media only screen and (max-width : 576px){
+  /* .contents > h5{
+    font-size: 8vw;
+  } */
+}

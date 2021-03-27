@@ -1,0 +1,16 @@
+{
+  "hosting": {
+    "public": "dist/safety-compu21/en-US",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

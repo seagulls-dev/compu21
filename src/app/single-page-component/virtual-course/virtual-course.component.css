@@ -1,0 +1,59 @@
+.price h4{
+  text-decoration: line-through;
+}
+
+.pricing-card{
+  min-height: 450px;
+}
+
+.card-body h5{
+  min-height: 120px;
+}
+
+.show-check{
+  text-decoration: underline;
+}
+
+.profile > div{
+  display: none;
+  position: relative;
+}
+
+.profile > div{
+  position: absolute;
+  z-index: 99;
+}
+
+.profile:hover > div{
+  display: block;
+}
+
+.desc{
+  min-height: 120px;
+}
+
+.contact-link{
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.mf-portfolio-page {
+  margin-bottom: 30px;
+  position: relative;
+}
+
+
+.rgba-black-strong, .rgba-black-strong:after {
+  height: inherit;
+}
+
+a.mf-portfolio-image-container2 {
+  display: block;
+  background: url('../../../assets/images/virtual.jpg') no-repeat center center;
+  background-size: 220%;
+  transition: all 0.3s ease-in 0s;
+}
+a.mf-portfolio-image-container2:hover {
+  background-size: 280%;
+}

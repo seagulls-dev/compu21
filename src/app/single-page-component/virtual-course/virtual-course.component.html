@@ -1,0 +1,106 @@
+<div class="container">
+  <br>
+
+  <div class="row justify-content-center">
+    <a [routerLink]="['/safety','Schedules']">
+      <button class="btn btn-light-blue btn-lg" >{{virtual?.check}}</button>
+    </a>
+    <a [routerLink]="['/safety','carts']">
+      <button class="btn btn-light-green btn-lg" >{{virtual?.cart}}</button>
+    </a>
+  </div>
+
+  <br><br><br>
+
+  <div class="row justify-content-center">
+
+    <div class="col-12 col-sm-6 col-md-4 col-lg-4 mf-portfolio-page" *ngFor="let course of virtualList" style="margin-bottom: 50px;">
+      <a routerLink="{{course.url}}" class="mf-portfolio-image-container2">
+        <div class="mf-portfolio-image-container-description">
+          <div class="text-white text-center d-flex align-items-center rgba-black-strong py-3 px-3">
+            <div class="card-body">
+              <h5 class="font-weight-bold mt-2">{{course.name}}</h5>
+
+              <div class="desc">
+                {{course.description}}
+              </div>
+
+              <!--Price -->
+              <div class="price pt-0">
+                <h4 class="number mb-0">{{course.old_price | currency}}</h4>
+              </div>
+              <div class="price pt-0">
+                <h2 class="number mb-0">{{course.price | currency}}</h2>
+              </div>
+              <br>
+
+              <a class="btn btn-rounded btn-outline-white" >online.train</a>
+
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+
+
+
+
+
+  </div>
+
+  <br>
+
+  <div class="row justify-content-center">
+    <a [routerLink]="['/safety','Schedules']">
+      <button class="btn btn-light-blue btn-lg" >{{virtual?.check}}</button>
+    </a>
+  </div>
+
+  <br><br>
+
+  <div class="row justify-content-center">
+    <div class="col-12 col-sm-10">
+      <ul>
+        <li>
+          <h5 >{{virtual?.content1}}</h5>
+        </li>
+        <li>
+          <h5 >{{virtual?.content2}}</h5>
+        </li>
+      </ul>
+      
+    </div>
+    <div class="col-12 col-sm-2">
+      <a [routerLink]="['/safety','Contact-us']" class="text-info contact-link" >
+        {{virtual?.contact}}
+      </a>
+    </div>
+  </div>
+
+  <br><br>
+
+  <div class="">
+    <h5 class="font-weight-bold" >{{online?.content1}}
+      
+    </h5>
+    <ul>
+      <li >{{online?.content2}}
+        
+      </li>
+      <li >{{online?.content3}}
+         <br>
+        <a class="show_check text-info"  target="_blank" href="assets/rule.pdf">
+          {{online?.spec}}
+        </a>
+      </li>
+      <li class="profile" >{{online?.content4}}
+        
+        <div>
+          <img src="assets/images/profile.png">
+        </div>
+      </li>
+    </ul>
+  </div>
+  <br><br><br>
+
+</div>

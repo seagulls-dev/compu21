@@ -1,0 +1,82 @@
+<div class="container-fluid" style="padding-left: 20%; padding-right: 20%; ">
+  <div class="row">
+    <img class="mx-auto" src="../../../assets/logo.png" alt="logo" class="img-fluid">
+  </div>
+  <div class="row">
+    <div class="col-12 col-md-6 p-5">
+      <h2 >{{contact?.contact}}</h2>
+      <p >{{contact?.rule}}</p>
+      <form (ngSubmit)="onSubmit()" #f='ngForm'>
+        <div class="form-group">
+          <label for="Name" >{{contact?.name}}</label>
+          <input 
+                class="form-control" 
+                ngModel 
+                name="name" 
+                id="Name" 
+                type="text" 
+                placeholder="{{contact?.name}}" 
+                required 
+                >
+        </div>
+        <div class="form-group">
+          <label for="Phone" >{{contact?.phone}}</label>
+          <input 
+                class="form-control" 
+                ngModel name="phone" 
+                id="phone" 
+                type="tel" 
+                placeholder="{{contact?.phone}}" 
+                required>
+        </div>
+        <div class="form-group">
+          <label for="Email">Email</label>
+          <input 
+                class="form-control" 
+                ngModel name="email" 
+                id="Email" 
+                type="email" 
+                placeholder="Email" 
+                required
+                email
+                #email = "ngModel">
+                <small style="color:red" *ngIf="!email.valid && email.touched" >{{contact?.valid}}</small>
+        </div>
+        <div class="form-group">
+          <label for="Message" >{{contact?.message}}</label>
+          <textarea 
+                  class="form-control" 
+                  name="msg" 
+                  ngModel 
+                  id="Message" 
+                  maxlength="300"
+                  rows="5"
+                  placeholder="{{contact?.message}}" 
+                  required></textarea>
+        </div>
+        <re-captcha 
+            siteKey="6LfR8-wUAAAAAPiGSl3cGIodFcyV2RWu7erx-Rsi" 
+            ngModel name="captcha" 
+            required
+            #captcha="ngModel"></re-captcha>
+            <small style="margin: 1%; color: red;" *ngIf="f.submitted && f.invalid" >contact.error</small>
+        <br/>
+        <button class="btn btn-primary" type="submit" [disabled]="!f.valid" >{{contact?.submit}}</button>
+      </form>
+    </div>
+    <div class="col-12 col-md-6 p-5">
+      <h2 >{{contact?.hour}}</h2>
+      <p >{{contact?.duration}}</p>
+      <br>
+      <h2 >{{contact?.campus}}</h2><br>
+      <p><strong>Email</strong><br>safety@compu21.com</p>
+      <p><strong >{{contact?.phone}}</strong><br>718-762-1900</p>
+      <p><strong>Fax</strong><br>718-762-2685</p>
+      <p><strong >{{contact?.address}}</strong><br>39-07 Prince Street, Suite 2C<br>Flushing, NY 11354</p>
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.1163129683614!2d-73.83422078434357!3d40.75946644264668!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2600e6c067747%3A0x360f489a1f4eb3d6!2s39-07%20Prince%20St%2C%20Flushing%2C%20NY%2011354!5e0!3m2!1sen!2sus!4v1587659214562!5m2!1sen!2sus"
+        width="450" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false"
+        tabindex="0"></iframe>
+    </div>
+  </div>
+</div>

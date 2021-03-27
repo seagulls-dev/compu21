@@ -1,0 +1,366 @@
+[
+ {
+   "code": "SST-302",
+   "name": "4-HR Fall Prevention",
+   "length": 4,
+   "language": "ENGLISH",
+   "trainingRequirement": "In order to continue to operate in the City of New York, the designated construction worker is required to complete a minimum number of hours of approved site safety training and to carry site safety identification cards as proof of completion of the training (As per New York City Local Law 196 of 2017 also known as ‘LL196’ or ‘Local Law’). This course provides four hours towards the satisfaction of that requirement.",
+   "description": "This course will help trainees will become generally familiar terms associated with falls in construction. Besides, trainees will be able to recognize avoid and prevent falls hazards from causing harm. Next, trainees should become aware of regulatory safety requirements associated with falls, including OSHA’s Subpart M. Futhermore, trainees will learn how to make informed decisions when working from heights",
+   "cost": 60
+ },
+ {
+  "code": "SST-305",
+  "name": "2-HR Drug and Alcohol Awareness",
+  "length": 2,
+  "language": "ENGLISH",
+  "trainingRequirement": "Per Local Law 196, in order to continue to operate in the City of New York, some workers and supervisors are required to complete a minimum number of hours of approved site safety training. This NYC Department of Buildings-Approved curriculum is a prescribed (required) course that fulfills one of the requirements for an individual applying for a Site Safety Training (SST) Card.",
+  "description": "This course will help trainees become generally familiar with adverse effects of drug and alcohol in the workplace. Trainees will be able to recognize problems associated with substance dependency. This training may also help trainees better recognize and understand issues of chemical dependence that may adversely affect the lives.",
+  "cost": 60
+},
+ {
+   "code": "SST-307",
+   "name": "8-Hour Fall Prevention",
+   "length": 8,
+   "language": "ENGLISH, MANDARIN, SPANISH",
+   "trainingRequirement": "Per Local Law 196, in order to continue to operate in the City of New York, some workers and supervisors are required to complete a minimum number of hours of approved site safety training. This NYC Department of Buildings-Approved curriculum is a prescribed (required) course that fulfills one of the requirements for an individual applying for a Site Safety Training (SST) Card.",
+   "description": "Falls are among the most common causes of serious work-related injuries and deaths. According to the New York City Department of Buildings (DOB), in 2016 there were 305 serious construction accidents involving worker falls, 10 of them were fatal. This 8-hour course is intended to educate workers on how to avoid accidents and injuries while working on roofs, leading edges, ladders or scaffolds by defining the regulations and safety rules associated with fall hazards on construction sites. Participants will gain the knowledge and skills necessary to identify and avoid hazards associated with elevated work locations.",
+   "cost": 220
+ },
+ {
+   "code": "SAF-202",
+   "name": "8-Hour Site Safety Manager Refresher / Chapter 33",
+   "length": 8,
+   "language": "ENGLISH, MANDARIN",
+   "trainingRequirement": "Per NYC Department of Buildings (DOB), Section 104-6 of Title 1 of the Rules of the City of NY, this course satisfies licensees continuing education renewal requirements for the Site Safety Manager (SSM) License or Site Safety Coordinator (SSC) Certificate. The SMM license expires every three (3) years and holders must complete this course one year immediately prior to renewing their license. SSC certificate holders must successfully complete this course every year, as the NYC DOB requires annual renewal of the coordinator certification.",
+   "description": "This course is a comprehensive review of Chapter 33 and the Rules of the City of New York that pertain to public protection during construction. The purpose of the course is to provide training with regards to construction on major buildings, that may be classified by the New York City Building Department, with emphasis on providing not only safety for the public and adjoining property, but to provide safety for worker within the job site as per OSHA requirements. This course is one of the pre-requisites an applicant must successfully complete before being eligible to apply for Site Safety Manager Certificate Examination or Supervisor SST Card.",
+   "cost": 220
+ },
+ {
+   "code": "SAF-201",
+   "name": "8-HR Site Safety Manager Refresher",
+   "length": 8,
+   "language": "ENGLISH",
+   "trainingRequirement": "Per NYC Department of Buildings (DOB), Section 104-6 of Title 1 of the Rules of the City of NY, this course satisfies licensees continuing education renewal requirements for the Site Safety Manager (SSM) License, Superintendent or Site Safety Coordinator (SSC) Certificate. The SSM license expires every three (3) years and holders must complete this course one year immediately prior to renewing their license. SSC certificate holders must successfully complete this course every year, as the NYC DOB requires annual renewal of the coordinator certification.",
+   "description": "The 8-Hour Site Safety Manager Renewal/Chapter 33 Training course is a refresher to the 40-Hour Site Safety Manager Course, which is a comprehensive presentation of Chapter 33 and the Rules of the City of New York that pertains to public protection. During the training, students will review the hazards of working in the New York City construction environment and the specific methods and work practices that are necessary on an urban construction site.",
+   "cost": 220
+ },
+ {
+   "code": "SAF-103",
+   "name": "8-HR Site Safety Coordinator",
+   "length": 8,
+   "language": "ENGLISH",
+   "trainingRequirement": "Pursuant to 1 RCNY 3301-02, this course is qualification requirement for candidates seeking to obtain the NYC Department of Buildings Site Safety Coordinator Certificate or to register/renew as a Construction Superintendent.",
+   "description": "The main objective of this course is to emphasize the importance of safety and protection of the public and workers on and around a jobsite. We will discuss revisions to the Building Codes, necessary actions to perform to ensure public safety, accident preventions, importance of maintaining logbooks, examines the roles of Site Safety Manager, Coordinator and a Superintendent and much more.",
+   "cost": 220
+ },
+ {
+   "code": "SST-306",
+   "name": "4-HR Supported Scaffold User & Refresher",
+   "length": 4,
+   "language": "ENGLISH",
+   "trainingRequirement": "As per Local Law 52 of 2005, this course is required for workers using supported scaffolds on construction sites in New York City. This training is required every 4 years.",
+   "description": "This course explains the basic elements of supported scaffold safety and introduces students to the nature of supported scaffold hazards. During the course emphasis is placed on the role of the scaffold user in accident prevention, which includes scaffold inspections, fall protection, recognizing hazards, and responding to emergencies.",
+   "cost": 220
+ },
+ {
+   "code": "SCA-201",
+   "name": "4-Hour Supported Scaffold User & Refresher",
+   "length": 4,
+   "language": "ENGLISH, MANDARIN, SPANISH",
+   "trainingRequirement": "As per Local Law 52 of 2005, this course is required for workers using supported scaffolds on construction sites in New York City. This training is required every 4 years.",
+   "description": "This course explains the basic elements of supported scaffold safety and introduces students to the nature of supported scaffold hazards. During the course emphasis is placed on the role of the scaffold user in accident prevention, which includes scaffold inspections, fall protection, recognizing hazards, and responding to emergencies.",
+   "cost": 150
+ },
+ {
+   "code": "SST-301",
+   "name": "2-Hour Site Safety Plan",
+   "length": 2,
+   "language": "ENGLISH, MANDARIN, SPANISH",
+   "trainingRequirement": "Per Local Law 196, in order to continue to operate in the City of New York, some workers and supervisors are required to complete a minimum number of hours of approved site safety training. This NYC Department of Buildings-Approved curriculum is a prescribed (required) course that fulfills one of the requirements for an individual applying for a Site Safety Training (SST) Card.",
+   "description": "This course will help trainees become generally familiar with plans and site safety plan. Trainees will be able to recognize issues with a site safety plan. Instructor will explain that necessity of using site safety and logistics plans for site safety management. Besides, trainees will also learn in detail what are included in the Site Safety Plan from Site Safety Plan Template.",
+   "cost": 60
+ },
+ {
+   "code": "SST-304",
+   "name": "2-Hour Tool Box Talks",
+   "length": 2,
+   "language": "ENGLISH, MANDARIN, SPANISH",
+   "trainingRequirement": "Per Local Law 196, in order to continue to operate in the City of New York, some workers and supervisors are required to complete a minimum number of hours of approved site safety training. This NYC Department of Buildings-Approved curriculum is a prescribed (required) course that fulfills one of the requirements for an individual applying for a Site Safety Training (SST) Card.",
+   "description": "This course will help trainees become generally familiar with Toolbox Talks as a quick and easy way for competent persons to reinforce and supplement established training efforts of and employer and keep safety and health compliance at the forefront of all workers minds. Besides, this course will hignten trainees' awareness of the need for effective tool box talks. Furthermore, trainees will be able to demonstrate how to abtain feedback from workers when providing toolbox talks so the talks can become more relevant to what tasks workers are performing.",
+   "cost": 60
+ },
+ {
+   "code": "SST-303",
+   "name": "2-Hour Pre-Task Meeting",
+   "length": 2,
+   "language": "ENGLISH, MANDARIN, SPANISH",
+   "trainingRequirement": "Per Local Law 196, in order to continue to operate in the City of New York, some workers and supervisors are required to complete a minimum number of hours of approved site safety training. This NYC Department of Buildings-Approved curriculum is a prescribed (required) course that fulfills one of the requirements for an individual applying for a Site Safety Training (SST) Card.",
+   "description": "In this course trainees will learn the purpose and proper presentation of pre-task meetings. Besides, trainees will become aware of administrative regulatory requirements associated pre-task meetings and record keeping standards. Our instructor will explain context of a pre-task meeting and that such meetings flow from a more formal plan known as a job hazard analysis and other terms such as a job safety analysis, a safe work plan or a risk assessment procedure.",
+   "cost": 60
+ },
+ {
+   "code": "SST-202",
+   "name": "1-Hour Confined Space Entry",
+   "length": 1,
+   "language": "ENGLISH, MANDARIN, SPANISH",
+   "trainingRequirement": "Local Law 196 of 2017 requires certain workers and supervisors to receive safety training at construction sites that are required to designate a Construction Superintendent, Site Safety Coordinator or Site Safety Manager. By September 1, 2020, workers will need a total of 40 hours of training to qualify for a Site Safety Training (SST) card. Supervisors must have a total of 62 hours of training by June 1, 2019, and to have obtained the Supervisor SST card.",
+   "description": "In this course trainees will become generally familiar with confined spaces and permit required confined spaces and recognize such spaces. Besides, trainees should become aware of administrative regulatory safety requirements associated with confined spaces. Furthermore, we will define OSHA’s definition of a Confined Space with its 3-criteria and provide illustrative examples.",
+   "cost": 35
+ },
+ {
+   "code": "SST-203",
+   "name": "1-Hour Concrete and Masonry Construction",
+   "length": 1,
+   "language": "ENGLISH, MANDARIN, SPANISH",
+   "trainingRequirement": "Local Law 196 of 2017 requires certain workers and supervisors to receive safety training at construction sites that are required to designate a Construction Superintendent, Site Safety Coordinator or Site Safety Manager. By September 1, 2020, workers will need a total of 40 hours of training to qualify for a Site Safety Training (SST) card. Supervisors must have a total of 62 hours of training by June 1, 2019, and to have obtained the Supervisor SST card.",
+   "description": "In this course trainees will become generally familiar with various processes of cast in place concrete operations. Besides, trainees will be able to recognize hazards associated with typical cast in place concrete operations. Furthermore, Trainees will be able to avoid health hazards associated with concrete. Briefly, in nonscientific terms, explain the physical nature of concrete and reinforced concrete, so trainees have a better ‘big picture’ perspective of concrete as a fundamental building material. ",
+   "cost": 35
+ },
+ {
+   "code": "SST-110",
+   "name": "1-Hour Stairways and Ladders",
+   "length": 1,
+   "language": "ENGLISH, MANDARIN, SPANISH",
+   "trainingRequirement": "Local Law 196 of 2017 requires certain workers and supervisors to receive safety training at construction sites that are required to designate a Construction Superintendent, Site Safety Coordinator or Site Safety Manager. By September 1, 2020, workers will need a total of 40 hours of training to qualify for a Site Safety Training (SST) card. Supervisors must have a total of 62 hours of training by June 1, 2019, and to have obtained the Supervisor SST card.",
+   "description": "In this course trainees will become generally familiar with confined spaces and permit required confined spaces and recognize such spaces. Besides, trainees should become aware of administrative regulatory safety requirements associated with confined spaces. Furthermore, we will define OSHA’s definition of a Confined Space with its 3-criteria and provide illustrative examples.",
+   "cost": 35
+ },
+ {
+   "code": "SST-111",
+   "name": "1-Hour Tools – Hand and Power",
+   "length": 1,
+   "language": "ENGLISH, MANDARIN, SPANISH",
+   "trainingRequirement": "Local Law 196 of 2017 requires certain workers and supervisors to receive safety training at construction sites that are required to designate a Construction Superintendent, Site Safety Coordinator or Site Safety Manager. By September 1, 2020, workers will need a total of 40 hours of training to qualify for a Site Safety Training (SST) card. Supervisors must have a total of 62 hours of training by June 1, 2019, and to have obtained the Supervisor SST card.",
+   "description": "In this course trainees will become generally familiar with confined spaces and permit required confined spaces and recognize such spaces. Besides, trainees should become aware of administrative regulatory safety requirements associated with confined spaces. Furthermore, we will define OSHA’s definition of a Confined Space with its 3-criteria and provide illustrative examples.",
+   "cost": 35
+ },
+ {
+   "code": "SAF-102",
+   "name": "40-Hour Site Safety Manager",
+   "length": 40,
+   "language": "ENGLISH",
+   "trainingRequirement": "As per the NYC Construction Codes – Title 28 General Administrative Provisions, to obtain a Site Safety Manager or Site Safety Coordinator* Certificate, applicants must complete submit to the Licensing Unit a certificate of completion for 40 hours of training. In addition, as per Title 1 Rules of the City of New York 3301-02, to register as a Construction Superintendent*, applicants must complete submit to the Licensing Unit a certificate of completion for 40 hours of training.",
+   "description": "This course is a comprehensive review of Chapter 33 and the Rules of the City of New York that pertain to public protection. The purpose of the course is to initiate prospective candidates with safe job practices in New York City and to prepare those prospective candidates to take the Site Safety Manager’s test.",
+   "cost": 750
+ },
+ {
+   "code": "SCA-102",
+   "name": "32-Hour Supported Scaffold Installer & Remover",
+   "length": 32,
+   "language": "ENGLISH, MANDARIN",
+   "trainingRequirement": "As per NYC Local Law 52 of 2005, this course is required for workers installing, removing or modifying supported scaffolds over 40 feet on Construction Sites in New York City.",
+   "description": "Instructors will demonstrate safe methods of installation, removal and modification of different types of supported scaffolds using OSHA regulations, DOB standards and good work practice as a guide. Some topics covered during the course will include major scaffold components, importance of proper pre-planning, worker training, and how to read scaffold design drawings. Throughout the course, students will also participate in hands on exercises in which they will build and dismantle supported scaffolds, apply various knots on the rope and demonstrate ability to apply basic rigging techniques.",
+   "cost": 700
+ },
+ {
+   "code": "SCA-202",
+   "name": "8-Hour Supported Scaffold Installer and Remover Refresher",
+   "length": null,
+   "language": "ENGLISH, MANDARIN",
+   "trainingRequirement": "As per NYC Local Law 52 of 2005, to continue to install or remove Supported Scaffolds in New York City, an individual must successfully complete this 8 hour Supported Scaffold Installer & Remover Refresher training course four years following the completion of the 32 Hour Supported Scaffold Installer and Remover Course & every four years thereafter. The original scaffold card must be renewed within 1 year from its expiration date. Should individual not renew their card within the allowed time, they will no longer be eligible to attend an 8 hour Refresher and must retake the original 32-hour class.",
+   "description": "During this course students will be discussing changes and updates to OSHA and New York City Department of Buildings (DOB) policies, procedures and supported scaffold standards. Students will also have a chance to share jobsite experiences and opinions about new supported scaffold systems and solutions. This knowledge will help workers to properly prepare for and participate in supported scaffold installation/removal process.",
+   "cost": 220
+ },
+ {
+   "code": "OSHA30",
+   "name": "OSHA30",
+   "length": 30,
+   "language": "ENGLISH, MANDARIN, SPANISH",
+   "trainingRequirement": "Local Law 196 mandates completion of OSHA training for supervisors employed within the Five Boroughs on certain size projects. Supervisor’s, including Construction Supers, Site Safety Managers, Site Safety Coordinators, Concrete Safety Managers, or Competent Persons are required to provide evidence of completion of the 30-HR OSHA Construction Safety Outreach Training program by December 1, 2019. In New York City, the 30-HR OSHA Training is required for individuals applying as a Site Safety Manager, Site Safety Coordinator, and/or Superintendent based on the applicant’s qualifications. Additionally, this program is increasingly a primary requirement for supervisory staff on many construction contracts throughout NY, NJ, Rhode Island and Connecticut.",
+   "description": "This program includes OSHA policies, procedures, and standards, as well as construction safety and health principles. The training will place emphasis on those areas that are most hazardous, using OSHA standards as a guide. This program is more applicable for the construction supervisor, with a more intensified focus on various occupational safety and health standards. Course participants can expect to be able to locate and identify OSHA standards in 29 CFR 1926; identify common causes of accidents and fatalities in hazardous areas of construction; recommend abatement techniques for such hazards; and recognize various construction processes, materials, and equipment.",
+   "cost": 400
+ },
+ {
+   "code": "home_improve",
+   "name": "Home Improvement Contractor",
+   "length": 3,
+   "language": "ENGLISH",
+   "trainingRequirement": "A person or business must have a Home Improvement Contractor license if engaged in the construction, repair, remodeling, or addition to any land or building used as a residence. This includes, but is not limited to, the construction, replacement, or improvement of basements, driveways, fences, garages, landscaping, patios, porches, sidewalks, swimming pools, terraces, and other improvements to structures or upon land that is next to a home or apartment building.",
+   "description": "Our instructor will go over the Home improvement business law,Duties and responsibilities of a contractor,Content and cancellation of contracts,Advertising and selling practices,General industry knowledge.",
+   "cost": 400
+ },
+ {
+   "code": "autocad",
+   "name": "AutoCAD",
+   "length": "Can be up to 12 weeks,One class in a week,3 Hours in a day",
+   "language": "ENGLISH, CHINESE",
+   "trainingRequirement": "",
+   "description": "AutoCAD is a commercial computer-aided design (CAD) and drafting software application. This course is designed for construction, building development, repairs/alterations and other fields. Construction industry workers with supervisory, oversight, and safety responsibilities can’t afford to be caught off-guard—especially when more lives are at stake.",
+   "cost": 400
+ },
+ {
+   "code": "revit",
+   "name": "Revit 3D",
+   "length": "Can be up to 6 weeks,One class in a week,3 Hours in a day",
+   "language": "ENGLISH, CHINESE",
+   "trainingRequirement": "",
+   "description": "Autodesk Revit is building information modelling software for architects, landscape architects, structural engineers, MEP engineers, designers and contractors.",
+   "cost": 400
+ },
+ {
+   "code" : "sst_special",
+   "contents" : [
+     {
+       "course" : "1-Hour Asbestos / Lead Awareness",
+       "desc" : "In this course trainees will become generally familiar with the health effects of asbestos and lead in the workplace. Besides, trainees will be able to recognize places and locations where asbestos and lead containing materials may be found in the construction industry. Next, trainees will be able to avoid health hazards associated with asbestos and lead. Furthermore, trainees should become aware of administrative safety requirements associated with asbestos and lead in the workplace.",
+       "lists" :[]
+     },
+     {
+      "course" : "1-Hour Confined Space Entry",
+      "desc" : "In this course trainees will become generally familiar with confined spaces and permit required confined spaces and recognize such spaces. Besides, trainees should become aware of administrative regulatory safety requirements associated with confined spaces. Furthermore, we will define OSHA’s definition of a Confined Space with its 3-criteria and provide illustrative examples.",
+      "lists" :[]
+    },
+    {
+      "course" : "1-Hour Concrete and Masonry Construction",
+      "desc" : "In this course trainees will become generally familiar with various processes of cast in place concrete operations. Besides, trainees will be able to recognize hazards associated with typical cast in place concrete operations. Furthermore, Trainees will be able to avoid health hazards associated with concrete. Briefly, in nonscientific terms, explain the physical nature of concrete and reinforced concrete, so trainees have a better ‘big picture’ perspective of concrete as a fundamental building material. ",
+      "lists" :[]
+    },
+    {
+      "course" : "1-Hour Cranes, Derricks, Hoists, Elevators, and Conveyors",
+      "desc" : "In this course trainees will become generally familiar components of cranes, derricks, hoists, elevators and conveying systems. Besides, trainees will be able to recognize and avoid hazards associated with cranes, derricks, hoists, elevators and conveying systems. Explain that the purpose of this training help trainees recognizing, avoiding and preventing (RAP) hoisting and rigging problems and provide basic rigging information.",
+      "lists" :[]
+    },
+    {
+      "course" : "1-Hour Demolition Safety",
+      "desc" : "In this course trainees will become generally familiar with hazards typical to demolition activities. Besides, trainees will be able to recognize and avoid hazards associated demolition operations. Next, trainees should become aware of administrative safety requirements associated demolition activity. Furthermore, Trainees will be introduced generally to typical means and method or demolition.",
+      "lists" :[]
+    },
+    {
+      "course" : "1-Hour Ergonomics",
+      "desc" : "In this course trainees will become generally familiar with how the human body interfaces with and use equipment, moves material and performs tasks. Besides, trainees will be able to recognize when ergonomic hazards become likely and how to avoid becoming injured. Furthermore, Trainees will be able to avoid risk of muscle. ",
+      "lists" :[]
+    },
+    {
+      "course" : "1-Hour Excavations",
+      "desc" : "In this course trainees will become familiar with terms associated with excavations and underpinning activities. Besides, trainees will become generally familiar with recognizing, avoiding and preventing safety issues concerning soil failures, undermining and structural collapse. Next, trainees will learn the responsibilities of permit holder to project adjoining structures. Furthermore, trainees will learn the role of Competent Persons in excavations.",
+      "lists" :[]
+    },
+    {
+      "course" : "1-Hour Flag Person",
+      "desc" : "In this course trainees will become generally familiar the role of flaggers (flag person) and spotters is and the difference and similarities. Besides, trainees will learn various rules designed to protect workers from vehicular strikes. Next, trainees will be able to recognize problems with traffic management and control. Furthermore, trainees should become aware of administrative and regulatory requirements associated with construction work and traffic control.",
+      "lists" :[]
+    },
+    {
+      "course" : "1-Hour Job Hazard Analysis",
+      "desc" : "In this course trainees will become generally familiar with how to assess and control hazards associated with any type of task or activity through a Job Hazard Analysis. Besides, trainees will be able to recognize and describe hierarchy of controls and respective means of Implementation. Next, trainees will be able to recognize the importance of conducting a Job Hazard Analysis . Furthermore, trainees will practice using risk aversion techniques.",
+      "lists" :[]
+    },
+    {
+      "course" : "1-Hour Personnel Lifts / Aerial Lifts / Scissor Lifts Safety",
+      "desc" : "In this course trainees will become generally familiar with the different types of personnel lifts and the associated hazards. Besides, Trainees should become aware safety requirements associated personnel lifts:",
+      "lists" : [
+        "Falls from lift to lower level.",
+        "Struck-by falling objects from personnel lifts.",
+        "Electrical hazards.",
+        "Hazards from the uncontrolled sources of energy i.e. steam, waste, mechanical.",
+        "Caught-in-between, snagging hazards.",
+        "Tipping of lift potential hazards"
+      ]
+    },
+    {
+      "course" : "1-Hour Motor Vehicles, Mechanized Equipment and Marine Operations;Rollover Protective Structures and Overhead Protection;and Signs, Signals and Barricades",
+      "desc" : "In this course trainees will become learn selected terms and types of mechanized equipment and associated safety controls associated. Besides, trainees will become aware of administrative regulatory safety requirements associated with large equipment. Furthermore, we will describe, illustrate and provide different examples of:",
+      "lists" : [
+        "Motor Vehicles",
+        "Mechanized Equipment",
+        "Cranes and Derricks",
+        "Maine Operations",
+        "Rollover Protections",
+        "Overhead Protection",
+        "Signs Signals and Barricades"
+      ]
+    },
+    {
+      "course" : "1-Hour Risk Assessment and Accident Investigation",
+      "desc" : "In this course trainees will become generally familiar with the various components of an incident/accident investigation. Besides, trainees should able to recognize good investigatory processes and understand and distinguish root causality from other more superficial causes. Furthermore, we will define various terms associated with accident/incident investigations. We will also discuss the ‘simple rule’ to good investigations ‘just keep asking ‘why’ and ‘how’ until there are no more answers. ",
+      "lists" :[]
+    },
+    {
+      "course" : "1-Hour Scaffolds - Suspended",
+      "desc" : "In this course trainees will become generally aware of hazards associated with suspended scaffolds. Besides, trainees will be aware of administrative safety requirements associated with suspended scaffolds. Furthermore, we will illustrate different types of suspended scaffolds such as catenary, float (ship), interior Hung, multi-level, two-point suspension scaffold, multi-point Adjustable, Needle Beam, Single-point Adjustable.",
+      "lists" :[]
+    },
+    {
+      "course" : "1-Hour Steel Erection",
+      "desc" : "In this course trainees will become generally familiar terms and steel erection processes and their associated safety hazards. Besides, trainees should become aware of administrative regulatory safety requirements associated with steel erection in New York City. Next, trainees will be able to define OSHA’s definition of Steel Erection (it’s very specific). Furthermore, trainees will be able to statistically illustrate the importance of safe steel erection operations to worker and public safety and property. ",
+      "lists" :[]
+    },
+    {
+      "course" : "1-Hour Welding and Cutting",
+      "desc" : "In this course trainees will become generally familiar with and be able to describe and recognize welding and burning work activities and various related safety components. Besides, trainees will be able to recognize safety and health hazards associated with welding and burning activities. Next, trainees will be able to avoid safety and health hazards associated with welding and burning activities. In addition, trainees will be able to prevent and control safety and health hazards associated with welding and burning activities. Furthermore, trainees should become aware of administrative safety requirements and processes associated with welding and burning activities.",
+      "lists" :[]
+    },
+    {
+      "course" : "2.50-Hour Foundations for Safety Leadership",
+      "desc" : "In this course trainees will become generally familiar with and be able to describe and recognize welding and burning work activities and various related safety components. Besides, trainees will be able to recognize safety and health hazards associated with welding and burning activities. Next, trainees will be able to avoid safety and health hazards associated with welding and burning activities. In addition, trainees will be able to prevent and control safety and health hazards associated with welding and burning activities. Furthermore, trainees should become aware of administrative safety requirements and processes associated with welding and burning activities.",
+      "lists" :[]
+    }
+   ]
+ },
+ {
+   "code" : "sst_general",
+   "contents" : [
+     {
+       "course" : "1-Hour Electrocution Prevention",
+       "desc" : "In this course trainees will become generally familiar with terms and the phenomenon of electricity and how it causes harm. Besides, trainees will be able to recognize electrical hazards and error traps associated with the potential for electricity to do harm. Our instructor will explain the basic Principles of Electricity in terms (analogy) that trainees can understand elctricity, current, circuit, resistance, conductors, grounding, insulators, incident enerygy and describe temperature flash/bang."
+     },
+     {
+      "course" : "1-Hour Fire Protection and Prevention",
+      "desc" : "In this course trainees will become generally familiar with the chemistry of fire as it practically pertains to construction. Besides, Trainees will be able to recognize potential for fire so as to avoid fires hazards. Furthermore, trainees should become aware of regulatory administrative fire safety requirements associated construction (FDNY, NFPA 241)."
+    },
+    {
+      "course" : "1-Hour First Aid and CPR",
+      "desc" : "In this course trainees will become generally familiar with terms, equipment and procedures associated with first aid and CPR. Besides, trainees will be able to recognize when they or other workers are experiencing a medical emergency. Furthermore, Trainees will learn the regulatory requirements for the use of and administration of first aid and CPR."
+    },
+    {
+      "course" : "1-Hour Handling Heavy Materials and Proper Lifting Techniques",
+      "desc" : "In this course trainees will become generally familiar with Health and Safety Programs (HASP). Besides, trainees will learn how to look for and review topics that come from HASPs. Next, we will explain and describe the difference between “safety” and “health” in terms of acute exposures to injury and more chronic exposures to illness and disease respectively. Furthermore, we will emphasize importance of an effective Injury and Illness Prevention Program (IIPP) and describe the context of program management and the policies, procedures and processes that grow from the same."
+    },
+    {
+      "course" : "1-Hour Health and Safety Programs in Construction",
+      "desc" : "In this course trainees will become familiar with hierarchical strategy of moving/lifting heavy material. Besides, trainees will be able to recognize hazards associated with overexertion and musculoskeletal stress. Furthermore, Trainees will be able to avoid injuries associated with lifting."
+    },
+    {
+      "course" : "1-Hour Hoisting and Rigging",
+      "desc" : "In this course trainees will become generally familiar with terms and various equipment used during hoisting and rigging operations and activities. Besides, trainees will be able to recognize and avoid typical hazards associated with hoisting and rigging. Furthermore, trainees be introduced at an AWARENESS LEVEL basic rigging information and lifting principles."
+    },
+    {
+      "course" : "1-Hour Materials Handling, Storage, Use, and Disposal",
+      "desc" : "In this course trainees will become generally familiar with how to properly handle, store and dispose of construction material and debris. Besides, trainees will learn to recognize hazards and the appropriate controls associated with material handling, storage and disposal of construction material."
+    },
+    {
+      "course" : "1-Hour Protection from Sun Exposure",
+      "desc" : "In this course trainees will become generally familiar with the effects of over exposure to heat and sunlight. Besides, trainees will learn how ultraviolet (UV) rays change the structure of skin cells and how increased and unprotected exposure can lead to skin cancer. Furthermore, trainees will learn how to protect and minimize exposure to excessive sunlight."
+    },
+    {
+      "course" : "1-Hour Repetitive Motion Injuries",
+      "desc" : "In this course trainees will learn what is meant by ‘repetitive motion’ disorders and how they come to occur. Besides, Trainees will be able to recognize and avoid repetitive and ergonomic hazards associated construction activities. Our instructor will explain what is meant by ‘repetitive motion’ and provide examples, potential injuries and physical damage."
+    },
+    {
+      "course" : "1-Hour Stairways and Ladders",
+      "desc" : "In this course trainees will become generally familiar with the parts of ladders and stairs. Besides, trainees will be able to recognize and avoid hazards associated with stairs and ladders. Furthermore, trainees should become aware of administrative safety requirements associated with stairs and ladder safety. Our instructor will provide occupational statistics concerning stairs and ladders."
+    },
+    {
+      "course" : "1-Hour Tools – Hand and Power",
+      "desc" : "In this course trainees will become generally familiar hazards and controls associated with the use of tools so they can recognize problems and avoid injury and misuse. Besides, our instructor will inform and describe how workers must be trained in the safe and proper use of tools. We will also describe proper Personal Protection Equipment for the use of all tools."
+    }
+
+   ]
+ },
+ {
+   "code" : "sst_super",
+   "name": "32-HR Supervisor SST Bundle",
+   "include" : [
+     "8-Hour Chapter 33",
+     "8-Hour Fall Prevention",
+     "4-Hour Elective Courses",
+     "8-Hour Prescribed Courses",
+     "4-Hour Support Scaffold User & Refresher"
+   ],
+   "length": 32,
+   "language": "ENGLISH",
+   "trainingRequirement": "Per Local Law 196, in order to continue to operate in the City of New York, some workers and supervisors are required to complete a minimum number of hours of approved site safety training. This NYC Department of Buildings-Approved curriculum is a prescribed (required) course that fulfills one of the requirements for an individual applying for a Site Safety Training (SST) Card.",
+   "cost": 220
+ }
+
+]

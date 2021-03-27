@@ -1,0 +1,18 @@
+[
+  {
+    "name" : "Gerente de seguridad del sitio de 40 horas",
+    "description" : "Este curso es una revisión exhaustiva del Capítulo 33 y las Reglas de la Ciudad de Nueva York relacionadas con la protección pública. El propósito del curso es iniciar candidatos potenciales con prácticas laborales seguras en la ciudad de Nueva York y preparar a esos candidatos potenciales para tomar la prueba del Administrador de Seguridad del Sitio.",
+    "price" : "750"
+  },
+  {
+    "name" : "Coordinador de seguridad del sitio 8-HR",
+    "description" : "El objetivo principal de este curso es enfatizar la importancia de la seguridad y la protección del público y los trabajadores en y alrededor del lugar de trabajo. Discutiremos las revisiones de los Códigos de Construcción, las acciones necesarias para garantizar la seguridad pública, la prevención de accidentes, la importancia de mantener los libros de registro, examinar los roles de Gerente de Seguridad del Sitio, Coordinador y Superintendente y mucho más.",
+    "price" : "220"
+  },
+  {
+    "name" : "Gerente de seguridad del sitio de 8 horas",
+    "description" : "El curso de 8 horas de Renovación del Administrador de Seguridad del Sitio / Capítulo 33 es un repaso al Curso de Administrador de Seguridad del Sitio de 40 horas, que es una presentación completa del Capítulo 33 y las Reglas de la Ciudad de Nueva York relacionadas con la protección pública. Durante la capacitación, los estudiantes revisarán los riesgos de trabajar en el entorno de construcción de la ciudad de Nueva York y los métodos y prácticas de trabajo específicos que son necesarios en un sitio de construcción urbana.",
+    "price" : "220"
+  }
+
+]

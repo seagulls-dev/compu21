@@ -1,0 +1,37 @@
+<div class="container-fluid" style="padding-left: 10%;padding-right: 10%;">
+  <div class="row">
+    <div class="col-12 col-sm-4">
+      <img src="assets/Capture-square.jpg" class="img-fluid">
+    </div>
+    <div class="col-12 col-sm-4">
+      <h2>E-verify</h2>
+      <p ><span style="color: red;">*</span>{{cart?.rule}}</p>
+      <form (ngSubmit)="onSubmit()" #f='ngForm'>
+        <div class="form-group">
+          <label for="certification"  style="font-weight: 400;">{{cart?.certification}}</label><span style="color: red;">&nbsp;*</span>
+          <input 
+                class="form-control" 
+                ngModel 
+                name="certification" 
+                id="certification" 
+                type="text" 
+                placeholder="{{cart?.certification}}" 
+                required 
+                >
+        </div>
+        <re-captcha 
+            siteKey="6LfR8-wUAAAAAPiGSl3cGIodFcyV2RWu7erx-Rsi" 
+            ngModel name="captcha" 
+            required
+            #captcha="ngModel"></re-captcha>
+            <small style="margin: 1%; color: red;" *ngIf="f.submitted && f.invalid" >{{cart?.error}}</small>
+        <br/>
+        <button class="btn btn-primary" type="submit" [disabled]="!f.valid" >{{cart?.submit}}</button>
+      </form>
+    </div>
+    <div class="col-12 col-sm-4">
+      <img src="assets/compu21-insitute-square.jpg" class="img-fluid">
+    </div>
+  </div>
+  <br><br><br><br>
+</div>
